@@ -16,10 +16,25 @@ The materials cover five open-source projects: OpenClaw, Hermes Agent, Dify, Ope
 ```text
 .
 ├── RQ1(Symptoms)/
+│   ├── RQ1_Codebook.xlsx
+│   ├── Full_Sample_Classification_Labels.xlsx
+│   └── Coding_Process/
 ├── RQ2(Root Causes)/
+│   ├── RQ2_Codebook.xlsx
+│   ├── Full_Sample_Classification_Labels.xlsx
+│   └── Coding_Process/
 ├── RQ3(Impact and Observability)/
+│   ├── RQ3_Attribute_Analysis.xlsx
+│   ├── Full_Sample_Labels.csv
+│   └── Coding_Process/
 └── RQ4(repair)/
+    ├── Repair_Strategy_Codebook.xlsx
+    ├── Root_Cause_Repair_Cost.xlsx
+    ├── Full_Sample_Labels.xlsx
+    └── Coding_Process/
 ```
+
+Each RQ directory keeps its codebook, full-sample labels, and main analyses at the root, where applicable. Its `Coding_Process/` subfolder contains the coding, consolidation, reliability, and review records.
 
 ## RQ1: Failure Symptoms
 
@@ -29,16 +44,16 @@ Key files:
 
 - `RQ1_Codebook.xlsx`: Failure-symptom codebook and associated frequency information.
 - `Full_Sample_Classification_Labels.xlsx`: Per-report category labels, stages, components, rationales, and confirmation records.
-- `Pilot_Initial_Coding_Round_1.xlsx` and `Pilot_Initial_Coding_Round_2.xlsx`: Initial coding and evidence excerpts from the two pilot rounds.
-- `Pilot_Code_Comparison_and_Consolidation.xlsx`: Pilot-code comparison, consolidation of similar codes, category revisions, stage coverage, and unresolved items.
-- `Reliability_Original_Labels_Round_1.xlsx` and `Reliability_Original_Labels_Round_2.xlsx`: Original labels and rationales from the two rounds of reliability-sample annotation.
-- `Reliability_and_Final_Review.xlsx`: Agreement calculations, original-label comparisons, disagreement handling, and final review results.
+- `Coding_Process/Pilot_Initial_Coding_Round_1.xlsx` and `Coding_Process/Pilot_Initial_Coding_Round_2.xlsx`: Initial coding and evidence excerpts from the two pilot rounds.
+- `Coding_Process/Pilot_Code_Comparison_and_Consolidation.xlsx`: Pilot-code comparison, consolidation of similar codes, category revisions, stage coverage, and unresolved items.
+- `Coding_Process/Reliability_Original_Labels_Round_1.xlsx` and `Coding_Process/Reliability_Original_Labels_Round_2.xlsx`: Original labels and rationales from the two rounds of reliability-sample annotation.
+- `Coding_Process/Reliability_and_Final_Review.xlsx`: Agreement calculations, original-label comparisons, disagreement handling, and final review results.
 
 ## RQ2: Root-Cause Mechanisms
 
 `RQ2(Root Causes)` contains the classification and coding-process materials for root-cause mechanisms. The codebook defines **24 root-cause categories**, identified by `C01`–`C24`. Root-cause classification focuses on the implementation or configuration mechanism that directly causes the failure; stages and components describe where the mechanism resides.
 
-`RQ2_Codebook.xlsx` is the root-cause codebook. The remaining files follow the same naming convention as RQ1 and contain per-report root-cause labels, two rounds of pilot coding, consolidation records, two rounds of original reliability labels, and final review results, together with relevant stages, components, and evidence.
+`RQ2_Codebook.xlsx` is the root-cause codebook, and `Full_Sample_Classification_Labels.xlsx` contains the per-report root-cause classifications. The `Coding_Process/` files follow the same naming convention as RQ1 and contain two rounds of pilot coding, consolidation records, two rounds of original reliability labels, and final review results, together with relevant stages, components, and evidence.
 
 ## RQ3: Task Impact and User Observability
 
@@ -61,11 +76,10 @@ Key files:
 
 - `RQ3_Attribute_Analysis.xlsx`: Attribute analyses, representative labels, and typical cases organized by failure-symptom and root-cause category.
 - `Full_Sample_Labels.csv`: Per-report attribute labels for 901 reports, together with related classifications, rationales, and assignment types. This file supports full-sample attribute distributions and the joint distribution of the two attributes.
-- `Pilot_Attribute_Labels.csv`: Supplementary attribute annotations and rationales for 454 pilot reports.
-- `Reliability_Original_Labels_Round_1.csv` and `Reliability_Original_Labels_Round_2.csv`: Original annotations from two rounds covering 447 reliability reports.
-- `Original_Label_Comparison.csv`: Field-level comparisons of the two rounds of original labels.
-- `Disagreements_and_Undetermined_Review.csv`: Subsequent review records for disagreements and undetermined items.
-- `Pilot_Supplement_Impact_Review.md`: Review of how supplementary pilot annotations affect attribute distributions and category-level primary labels.
+- `Coding_Process/Pilot_Attribute_Labels.csv`: Supplementary attribute annotations and rationales for 454 pilot reports.
+- `Coding_Process/Reliability_Original_Labels_Round_1.csv` and `Coding_Process/Reliability_Original_Labels_Round_2.csv`: Original annotations from two rounds covering 447 reliability reports.
+- `Coding_Process/Original_Label_Comparison.csv`: Field-level comparisons of the two rounds of original labels.
+- `Coding_Process/Disagreements_and_Undetermined_Review.csv`: Subsequent review records for disagreements and undetermined items.
 
 ## RQ4: Repair Strategies and Repair Cost
 
@@ -82,10 +96,11 @@ Key files:
 
 - `Repair_Strategy_Codebook.xlsx`: Descriptions, examples, and distribution information for the four strategies.
 - `Root_Cause_Repair_Cost.xlsx`: Handling-duration and code-change-size summaries and analyses by root-cause category.
-- `Pilot_Initial_Coding_Round_1.xlsx` and `Pilot_Initial_Coding_Round_2.xlsx`: Repair-strategy coding from the two pilot rounds.
-- `Pilot_Consolidation_and_Review.xlsx`: Strategy consolidation, version records, and pilot review records.
-- `Reliability_Original_Labels_Round_1.xlsx` and `Reliability_Original_Labels_Round_2.xlsx`: Two rounds of original reliability labels.
-- `Reliability_and_Final_Review.xlsx`: Agreement results, the confusion matrix, disagreement handling, final review of 481 strategy reports, and statistical results.
+- `Full_Sample_Labels.xlsx`: Final repair-strategy labels for all 481 reports included in the strategy analysis, with strategy names, repair actions, assignment rationales, review records, evidence statuses, and URLs. The worksheet is named `Full_Sample_Labels`.
+- `Coding_Process/Pilot_Initial_Coding_Round_1.xlsx` and `Coding_Process/Pilot_Initial_Coding_Round_2.xlsx`: Repair-strategy coding from the two pilot rounds.
+- `Coding_Process/Pilot_Consolidation_and_Review.xlsx`: Strategy consolidation, version records, and pilot review records.
+- `Coding_Process/Reliability_Original_Labels_Round_1.xlsx` and `Coding_Process/Reliability_Original_Labels_Round_2.xlsx`: Two rounds of original reliability labels.
+- `Coding_Process/Reliability_and_Final_Review.xlsx`: Agreement results, the confusion matrix, disagreement handling, final review of 481 strategy reports, and statistical results.
 
 Handling duration and code change size serve as descriptive indicators of repair cost. Measurement rules and valid sample sizes are documented in the corresponding files. Strategy labels retain evidence statuses distinguishing assignments supported by available materials from inferred matches.
 
@@ -99,7 +114,7 @@ Agreement is calculated from the two rounds of original labels before discussion
 
 1. Read each RQ's codebook to understand category definitions, boundaries, and decision criteria.
 2. Consult per-report labels or final review sheets, using report identifiers, URLs, and category IDs to locate reports and evidence.
-3. Examine the two rounds of original coding, consolidation records, and disagreement records to trace how individual labels were formed.
+3. Examine the two rounds of original coding, consolidation records, and disagreement records in each RQ's `Coding_Process/` subfolder to trace how individual labels were formed.
 4. Calculate distributions from the per-report labels for the relevant sample, and interpret them alongside stages, components, and evidence statuses.
 
 The repository retains materials from code development, reliability assessment, and subsequent aggregation. When reporting frequencies, percentages, or agreement results, identify the corresponding file, version, sample scope, and denominator. Category-level representative labels support category interpretation, while per-report labels support sample-level statistics. Interpret inferred matches together with their recorded rationales and evidence scope.
