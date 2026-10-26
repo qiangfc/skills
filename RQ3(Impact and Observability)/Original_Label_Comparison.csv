@@ -1,0 +1,895 @@
+﻿Record ID,URL,Field,Round 1,Round 2,Both have input,Agreement
+R0001,https://github.com/openclaw/openclaw/issues/1039,Task impact,Noncompletion,Noncompletion,True,True
+R0002,https://github.com/openclaw/openclaw/issues/1312,Task impact,Noncompletion,Noncompletion,True,True
+R0004,https://github.com/openclaw/openclaw/issues/7158,Task impact,Noncompletion,Noncompletion,True,True
+R0005,https://github.com/openclaw/openclaw/issues/7211,Task impact,Incorrect result,Undetermined,True,False
+R0006,https://github.com/openclaw/openclaw/issues/8425,Task impact,Incorrect result,Incorrect result,True,True
+R0007,https://github.com/openclaw/openclaw/issues/8460,Task impact,Incorrect result,Undetermined,True,False
+R0008,https://github.com/openclaw/openclaw/issues/10074,Task impact,Noncompletion,Noncompletion,True,True
+R0009,https://github.com/openclaw/openclaw/issues/10438,Task impact,Incorrect result,Incorrect result,True,True
+R0010,https://github.com/openclaw/openclaw/issues/12674,Task impact,Incorrect result,Undetermined,True,False
+R0011,https://github.com/openclaw/openclaw/issues/14324,Task impact,Noncompletion,Noncompletion,True,True
+R0012,https://github.com/openclaw/openclaw/issues/16927,Task impact,Noncompletion,Noncompletion,True,True
+R0013,https://github.com/openclaw/openclaw/issues/17358,Task impact,Incorrect result,Incorrect result,True,True
+R0014,https://github.com/openclaw/openclaw/issues/18116,Task impact,Incorrect result,Incorrect result,True,True
+R0015,https://github.com/openclaw/openclaw/issues/19312,Task impact,Noncompletion,Partial completion,True,False
+R0016,https://github.com/openclaw/openclaw/issues/20320,Task impact,Incorrect result,Incorrect result,True,True
+R0017,https://github.com/openclaw/openclaw/issues/21968,Task impact,Noncompletion,Noncompletion,True,True
+R0018,https://github.com/openclaw/openclaw/issues/22197,Task impact,Noncompletion,Noncompletion,True,True
+R0019,https://github.com/openclaw/openclaw/issues/22517,Task impact,Noncompletion,Noncompletion,True,True
+R0020,https://github.com/openclaw/openclaw/issues/23385,Task impact,Noncompletion,Noncompletion,True,True
+R0021,https://github.com/openclaw/openclaw/issues/25239,Task impact,Undetermined,Undetermined,True,True
+R0023,https://github.com/openclaw/openclaw/issues/27456,Task impact,Noncompletion,Noncompletion,True,True
+R0024,https://github.com/openclaw/openclaw/issues/27758,Task impact,Noncompletion,Noncompletion,True,True
+R0025,https://github.com/openclaw/openclaw/issues/29983,Task impact,Noncompletion,Noncompletion,True,True
+R0026,https://github.com/openclaw/openclaw/issues/30681,Task impact,Incorrect result,Incorrect result,True,True
+R0027,https://github.com/openclaw/openclaw/issues/33435,Task impact,Incorrect result,Incorrect result,True,True
+R0028,https://github.com/openclaw/openclaw/issues/35248,Task impact,Noncompletion,Noncompletion,True,True
+R0029,https://github.com/openclaw/openclaw/issues/39920,Task impact,Noncompletion,Noncompletion,True,True
+R0030,https://github.com/openclaw/openclaw/issues/40069,Task impact,Noncompletion,Noncompletion,True,True
+R0031,https://github.com/openclaw/openclaw/issues/40845,Task impact,Incorrect result,Incorrect result,True,True
+R0032,https://github.com/openclaw/openclaw/issues/41168,Task impact,Undetermined,Incorrect result,True,False
+R0033,https://github.com/openclaw/openclaw/issues/41181,Task impact,Incorrect result,Incorrect result,True,True
+R0034,https://github.com/openclaw/openclaw/issues/42359,Task impact,Noncompletion,Noncompletion,True,True
+R0035,https://github.com/openclaw/openclaw/issues/42471,Task impact,Noncompletion,Noncompletion,True,True
+R0036,https://github.com/openclaw/openclaw/issues/43383,Task impact,Noncompletion,Noncompletion,True,True
+R0037,https://github.com/openclaw/openclaw/issues/44522,Task impact,Noncompletion,Partial completion,True,False
+R0038,https://github.com/openclaw/openclaw/issues/44898,Task impact,Noncompletion,Noncompletion,True,True
+R0039,https://github.com/openclaw/openclaw/issues/46736,Task impact,Undetermined,Incorrect result,True,False
+R0040,https://github.com/openclaw/openclaw/issues/46894,Task impact,Noncompletion,Noncompletion,True,True
+R0041,https://github.com/openclaw/openclaw/issues/48759,Task impact,Noncompletion,Noncompletion,True,True
+R0042,https://github.com/openclaw/openclaw/issues/48873,Task impact,Noncompletion,Noncompletion,True,True
+R0043,https://github.com/openclaw/openclaw/issues/49074,Task impact,Incorrect result,Undetermined,True,False
+R0044,https://github.com/openclaw/openclaw/issues/49081,Task impact,Noncompletion,Noncompletion,True,True
+R0045,https://github.com/openclaw/openclaw/issues/50398,Task impact,Noncompletion,Noncompletion,True,True
+R0046,https://github.com/openclaw/openclaw/issues/52973,Task impact,Noncompletion,Noncompletion,True,True
+R0047,https://github.com/openclaw/openclaw/issues/53202,Task impact,Partial completion,Partial completion,True,True
+R0048,https://github.com/openclaw/openclaw/issues/53424,Task impact,Noncompletion,Noncompletion,True,True
+R0049,https://github.com/openclaw/openclaw/issues/53497,Task impact,Noncompletion,Noncompletion,True,True
+R0050,https://github.com/openclaw/openclaw/issues/54428,Task impact,Noncompletion,Noncompletion,True,True
+R0051,https://github.com/openclaw/openclaw/issues/54629,Task impact,Partial completion,Noncompletion,True,False
+R0052,https://github.com/openclaw/openclaw/issues/54763,Task impact,Noncompletion,Noncompletion,True,True
+R0053,https://github.com/openclaw/openclaw/issues/54878,Task impact,Partial completion,Partial completion,True,True
+R0054,https://github.com/openclaw/openclaw/issues/55651,Task impact,Noncompletion,Noncompletion,True,True
+R0055,https://github.com/openclaw/openclaw/issues/56161,Task impact,Incorrect result,Incorrect result,True,True
+R0056,https://github.com/openclaw/openclaw/issues/56699,Task impact,Incorrect result,Incorrect result,True,True
+R0057,https://github.com/openclaw/openclaw/issues/56913,Task impact,Undetermined,Undetermined,True,True
+R0058,https://github.com/openclaw/openclaw/issues/58115,Task impact,Partial completion,Partial completion,True,True
+R0059,https://github.com/openclaw/openclaw/issues/59228,Task impact,Incorrect result,Noncompletion,True,False
+R0060,https://github.com/openclaw/openclaw/issues/59345,Task impact,Incorrect result,Incorrect result,True,True
+R0062,https://github.com/openclaw/openclaw/issues/60879,Task impact,Incorrect result,Incorrect result,True,True
+R0063,https://github.com/openclaw/openclaw/issues/61237,Task impact,Incorrect result,Incorrect result,True,True
+R0064,https://github.com/openclaw/openclaw/issues/62558,Task impact,Noncompletion,Noncompletion,True,True
+R0065,https://github.com/openclaw/openclaw/issues/62940,Task impact,Partial completion,Partial completion,True,True
+R0066,https://github.com/openclaw/openclaw/issues/63066,Task impact,Noncompletion,Noncompletion,True,True
+R0067,https://github.com/openclaw/openclaw/issues/64921,Task impact,Incorrect result,Incorrect result,True,True
+R0068,https://github.com/openclaw/openclaw/issues/65122,Task impact,Noncompletion,Noncompletion,True,True
+R0069,https://github.com/openclaw/openclaw/issues/65183,Task impact,Undetermined,Noncompletion,True,False
+R0070,https://github.com/openclaw/openclaw/issues/65954,Task impact,Partial completion,Partial completion,True,True
+R0071,https://github.com/openclaw/openclaw/issues/66581,Task impact,Noncompletion,Noncompletion,True,True
+R0072,https://github.com/openclaw/openclaw/issues/69386,Task impact,Incorrect result,Noncompletion,True,False
+R0073,https://github.com/openclaw/openclaw/issues/70717,Task impact,Noncompletion,Noncompletion,True,True
+R0074,https://github.com/openclaw/openclaw/issues/71592,Task impact,Noncompletion,Noncompletion,True,True
+R0075,https://github.com/openclaw/openclaw/issues/71756,Task impact,Incorrect result,Incorrect result,True,True
+R0076,https://github.com/openclaw/openclaw/issues/72061,Task impact,Undetermined,Undetermined,True,True
+R0077,https://github.com/openclaw/openclaw/issues/72632,Task impact,Undetermined,Undetermined,True,True
+R0078,https://github.com/openclaw/openclaw/issues/74181,Task impact,Noncompletion,Noncompletion,True,True
+R0080,https://github.com/openclaw/openclaw/issues/75158,Task impact,Noncompletion,Noncompletion,True,True
+R0081,https://github.com/openclaw/openclaw/issues/75512,Task impact,Undetermined,Undetermined,True,True
+R0082,https://github.com/openclaw/openclaw/issues/75887,Task impact,Noncompletion,Noncompletion,True,True
+R0083,https://github.com/openclaw/openclaw/issues/76209,Task impact,Undetermined,Undetermined,True,True
+R0084,https://github.com/openclaw/openclaw/issues/76412,Task impact,Partial completion,Partial completion,True,True
+R0085,https://github.com/openclaw/openclaw/issues/77106,Task impact,Noncompletion,Noncompletion,True,True
+R0086,https://github.com/openclaw/openclaw/issues/77233,Task impact,Noncompletion,Noncompletion,True,True
+R0087,https://github.com/openclaw/openclaw/issues/77359,Task impact,Noncompletion,Noncompletion,True,True
+R0088,https://github.com/openclaw/openclaw/issues/77434,Task impact,Noncompletion,Incorrect result,True,False
+R0089,https://github.com/openclaw/openclaw/issues/78260,Task impact,Noncompletion,Noncompletion,True,True
+R0090,https://github.com/openclaw/openclaw/issues/78671,Task impact,Noncompletion,Noncompletion,True,True
+R0091,https://github.com/openclaw/openclaw/issues/81492,Task impact,Noncompletion,Noncompletion,True,True
+R0092,https://github.com/openclaw/openclaw/issues/81594,Task impact,Noncompletion,Noncompletion,True,True
+R0093,https://github.com/openclaw/openclaw/issues/83820,Task impact,Undetermined,Undetermined,True,True
+R0094,https://github.com/openclaw/openclaw/issues/84659,Task impact,Partial completion,Partial completion,True,True
+R0095,https://github.com/openclaw/openclaw/issues/86775,Task impact,Noncompletion,Noncompletion,True,True
+R0096,https://github.com/openclaw/openclaw/issues/88056,Task impact,Noncompletion,Noncompletion,True,True
+R0097,https://github.com/openclaw/openclaw/issues/88195,Task impact,Incorrect result,Undetermined,True,False
+R0098,https://github.com/openclaw/openclaw/issues/90578,Task impact,Undetermined,Undetermined,True,True
+R0099,https://github.com/openclaw/openclaw/issues/90638,Task impact,Noncompletion,Noncompletion,True,True
+R0100,https://github.com/openclaw/openclaw/issues/90640,Task impact,Noncompletion,Noncompletion,True,True
+R0101,https://github.com/openclaw/openclaw/issues/91164,Task impact,Noncompletion,Noncompletion,True,True
+R0102,https://github.com/openclaw/openclaw/issues/91805,Task impact,Noncompletion,Noncompletion,True,True
+R0103,https://github.com/openclaw/openclaw/issues/92338,Task impact,Undetermined,Undetermined,True,True
+R0104,https://github.com/openclaw/openclaw/issues/92486,Task impact,Noncompletion,Noncompletion,True,True
+R0105,https://github.com/openclaw/openclaw/issues/97686,Task impact,Noncompletion,Noncompletion,True,True
+R0106,https://github.com/openclaw/openclaw/issues/99240,Task impact,Noncompletion,Noncompletion,True,True
+R0107,https://github.com/openclaw/openclaw/issues/99434,Task impact,Noncompletion,Noncompletion,True,True
+R0108,https://github.com/openclaw/openclaw/issues/100250,Task impact,Noncompletion,Noncompletion,True,True
+R0109,https://github.com/openclaw/openclaw/issues/102508,Task impact,Noncompletion,Noncompletion,True,True
+R0110,https://github.com/openclaw/openclaw/issues/102854,Task impact,Undetermined,Undetermined,True,True
+R0111,https://github.com/openclaw/openclaw/issues/104743,Task impact,Noncompletion,Noncompletion,True,True
+R0112,https://github.com/openclaw/openclaw/issues/105110,Task impact,Undetermined,Undetermined,True,True
+R0113,https://github.com/openclaw/openclaw/issues/106517,Task impact,Partial completion,Partial completion,True,True
+R0114,https://github.com/openclaw/openclaw/issues/107406,Task impact,Noncompletion,Noncompletion,True,True
+R0115,https://github.com/openclaw/openclaw/issues/108432,Task impact,Noncompletion,Noncompletion,True,True
+R0116,https://github.com/openclaw/openclaw/issues/115443,Task impact,Undetermined,Undetermined,True,True
+R0117,https://github.com/openclaw/openclaw/issues/118018,Task impact,Incorrect result,Incorrect result,True,True
+R0118,https://github.com/openclaw/openclaw/issues/119143,Task impact,Noncompletion,Noncompletion,True,True
+R0119,https://github.com/openclaw/openclaw/issues/122812,Task impact,Incorrect result,Incorrect result,True,True
+R0120,https://github.com/openclaw/openclaw/issues/126996,Task impact,Noncompletion,Noncompletion,True,True
+R0121,https://github.com/openclaw/openclaw/issues/127034,Task impact,Noncompletion,Noncompletion,True,True
+R0122,https://github.com/openclaw/openclaw/issues/128755,Task impact,Incorrect result,Incorrect result,True,True
+R0123,https://github.com/openclaw/openclaw/issues/138383,Task impact,Noncompletion,Noncompletion,True,True
+R0125,https://github.com/openclaw/openclaw/issues/149553,Task impact,Partial completion,Partial completion,True,True
+R0126,https://github.com/openclaw/openclaw/issues/157078,Task impact,Noncompletion,Noncompletion,True,True
+R0127,https://github.com/openclaw/openclaw/issues/161739,Task impact,Undetermined,Undetermined,True,True
+R0128,https://github.com/openclaw/openclaw/issues/162880,Task impact,Noncompletion,Noncompletion,True,True
+R0129,https://github.com/openclaw/openclaw/issues/166709,Task impact,Noncompletion,Undetermined,True,False
+R0130,https://github.com/NousResearch/hermes-agent/issues/44,Task impact,Noncompletion,Noncompletion,True,True
+R0131,https://github.com/NousResearch/hermes-agent/issues/387,Task impact,Undetermined,Undetermined,True,True
+R0132,https://github.com/NousResearch/hermes-agent/issues/487,Task impact,Undetermined,Undetermined,True,True
+R0133,https://github.com/NousResearch/hermes-agent/issues/493,Task impact,Undetermined,Undetermined,True,True
+R0134,https://github.com/NousResearch/hermes-agent/issues/630,Task impact,Noncompletion,Noncompletion,True,True
+R0135,https://github.com/NousResearch/hermes-agent/issues/1093,Task impact,Undetermined,Noncompletion,True,False
+R0136,https://github.com/NousResearch/hermes-agent/issues/1451,Task impact,Undetermined,Undetermined,True,True
+R0137,https://github.com/NousResearch/hermes-agent/issues/2066,Task impact,Undetermined,Undetermined,True,True
+R0138,https://github.com/NousResearch/hermes-agent/issues/2338,Task impact,Noncompletion,Partial completion,True,False
+R0139,https://github.com/NousResearch/hermes-agent/issues/2940,Task impact,Noncompletion,Partial completion,True,False
+R0140,https://github.com/NousResearch/hermes-agent/issues/4219,Task impact,Noncompletion,Noncompletion,True,True
+R0141,https://github.com/NousResearch/hermes-agent/issues/4319,Task impact,Undetermined,Undetermined,True,True
+R0142,https://github.com/NousResearch/hermes-agent/issues/4829,Task impact,Noncompletion,Noncompletion,True,True
+R0144,https://github.com/NousResearch/hermes-agent/issues/5128,Task impact,Noncompletion,Noncompletion,True,True
+R0145,https://github.com/NousResearch/hermes-agent/issues/5217,Task impact,Noncompletion,Noncompletion,True,True
+R0146,https://github.com/NousResearch/hermes-agent/issues/5563,Task impact,Incorrect result,Incorrect result,True,True
+R0147,https://github.com/NousResearch/hermes-agent/issues/6035,Task impact,Undetermined,Undetermined,True,True
+R0148,https://github.com/NousResearch/hermes-agent/issues/6582,Task impact,Noncompletion,Noncompletion,True,True
+R0149,https://github.com/NousResearch/hermes-agent/issues/7072,Task impact,Incorrect result,Incorrect result,True,True
+R0150,https://github.com/NousResearch/hermes-agent/issues/7669,Task impact,Incorrect result,Incorrect result,True,True
+R0151,https://github.com/NousResearch/hermes-agent/issues/7968,Task impact,Incorrect result,Partial completion,True,False
+R0152,https://github.com/NousResearch/hermes-agent/issues/8193,Task impact,Noncompletion,Noncompletion,True,True
+R0153,https://github.com/NousResearch/hermes-agent/issues/8487,Task impact,Noncompletion,Noncompletion,True,True
+R0154,https://github.com/NousResearch/hermes-agent/issues/9712,Task impact,Undetermined,Noncompletion,True,False
+R0155,https://github.com/NousResearch/hermes-agent/issues/9809,Task impact,Undetermined,Undetermined,True,True
+R0156,https://github.com/NousResearch/hermes-agent/issues/10946,Task impact,Noncompletion,Noncompletion,True,True
+R0157,https://github.com/NousResearch/hermes-agent/issues/11200,Task impact,Noncompletion,Undetermined,True,False
+R0158,https://github.com/NousResearch/hermes-agent/issues/13026,Task impact,Noncompletion,Noncompletion,True,True
+R0159,https://github.com/NousResearch/hermes-agent/issues/13027,Task impact,Incorrect result,Incorrect result,True,True
+R0160,https://github.com/NousResearch/hermes-agent/issues/13065,Task impact,Undetermined,Undetermined,True,True
+R0163,https://github.com/NousResearch/hermes-agent/issues/14603,Task impact,Incorrect result,Incorrect result,True,True
+R0164,https://github.com/NousResearch/hermes-agent/issues/15759,Task impact,Noncompletion,Noncompletion,True,True
+R0165,https://github.com/NousResearch/hermes-agent/issues/16094,Task impact,Noncompletion,Noncompletion,True,True
+R0166,https://github.com/NousResearch/hermes-agent/issues/16294,Task impact,Incorrect result,Partial completion,True,False
+R0167,https://github.com/NousResearch/hermes-agent/issues/16452,Task impact,Noncompletion,Noncompletion,True,True
+R0169,https://github.com/NousResearch/hermes-agent/issues/17182,Task impact,Noncompletion,Noncompletion,True,True
+R0170,https://github.com/NousResearch/hermes-agent/issues/17558,Task impact,Noncompletion,Noncompletion,True,True
+R0171,https://github.com/NousResearch/hermes-agent/issues/18373,Task impact,Incorrect result,Incorrect result,True,True
+R0172,https://github.com/NousResearch/hermes-agent/issues/18671,Task impact,Partial completion,Undetermined,True,False
+R0173,https://github.com/NousResearch/hermes-agent/issues/18993,Task impact,Noncompletion,Noncompletion,True,True
+R0174,https://github.com/NousResearch/hermes-agent/issues/21028,Task impact,Noncompletion,Noncompletion,True,True
+R0175,https://github.com/NousResearch/hermes-agent/issues/21790,Task impact,Noncompletion,Noncompletion,True,True
+R0176,https://github.com/NousResearch/hermes-agent/issues/22357,Task impact,Undetermined,Undetermined,True,True
+R0177,https://github.com/NousResearch/hermes-agent/issues/22563,Task impact,Incorrect result,Incorrect result,True,True
+R0178,https://github.com/NousResearch/hermes-agent/issues/22761,Task impact,Noncompletion,Noncompletion,True,True
+R0179,https://github.com/NousResearch/hermes-agent/issues/22897,Task impact,Undetermined,Undetermined,True,True
+R0180,https://github.com/NousResearch/hermes-agent/issues/23402,Task impact,Undetermined,Noncompletion,True,False
+R0181,https://github.com/NousResearch/hermes-agent/issues/24969,Task impact,Incorrect result,Incorrect result,True,True
+R0182,https://github.com/NousResearch/hermes-agent/issues/26352,Task impact,Undetermined,Undetermined,True,True
+R0183,https://github.com/NousResearch/hermes-agent/issues/27145,Task impact,Undetermined,Noncompletion,True,False
+R0184,https://github.com/NousResearch/hermes-agent/issues/27540,Task impact,Undetermined,Noncompletion,True,False
+R0185,https://github.com/NousResearch/hermes-agent/issues/27606,Task impact,Noncompletion,Noncompletion,True,True
+R0186,https://github.com/NousResearch/hermes-agent/issues/29015,Task impact,Noncompletion,Noncompletion,True,True
+R0187,https://github.com/NousResearch/hermes-agent/issues/30010,Task impact,Noncompletion,Noncompletion,True,True
+R0188,https://github.com/NousResearch/hermes-agent/issues/30896,Task impact,Noncompletion,Noncompletion,True,True
+R0189,https://github.com/NousResearch/hermes-agent/issues/30904,Task impact,Noncompletion,Noncompletion,True,True
+R0190,https://github.com/NousResearch/hermes-agent/issues/30966,Task impact,Undetermined,Undetermined,True,True
+R0191,https://github.com/NousResearch/hermes-agent/issues/31033,Task impact,Partial completion,Partial completion,True,True
+R0192,https://github.com/NousResearch/hermes-agent/issues/32396,Task impact,Incorrect result,Incorrect result,True,True
+R0194,https://github.com/NousResearch/hermes-agent/issues/32899,Task impact,Noncompletion,Noncompletion,True,True
+R0195,https://github.com/NousResearch/hermes-agent/issues/33299,Task impact,Noncompletion,Noncompletion,True,True
+R0196,https://github.com/NousResearch/hermes-agent/issues/33525,Task impact,Noncompletion,Noncompletion,True,True
+R0197,https://github.com/NousResearch/hermes-agent/issues/33925,Task impact,Noncompletion,Noncompletion,True,True
+R0198,https://github.com/NousResearch/hermes-agent/issues/34689,Task impact,Noncompletion,Noncompletion,True,True
+R0199,https://github.com/NousResearch/hermes-agent/issues/34806,Task impact,Partial completion,Partial completion,True,True
+R0200,https://github.com/NousResearch/hermes-agent/issues/35406,Task impact,Undetermined,Undetermined,True,True
+R0201,https://github.com/NousResearch/hermes-agent/issues/35736,Task impact,Noncompletion,Noncompletion,True,True
+R0202,https://github.com/NousResearch/hermes-agent/issues/36012,Task impact,Noncompletion,Noncompletion,True,True
+R0204,https://github.com/NousResearch/hermes-agent/issues/38459,Task impact,Noncompletion,Noncompletion,True,True
+R0205,https://github.com/NousResearch/hermes-agent/issues/40683,Task impact,Noncompletion,Noncompletion,True,True
+R0206,https://github.com/NousResearch/hermes-agent/issues/41671,Task impact,Noncompletion,Noncompletion,True,True
+R0207,https://github.com/NousResearch/hermes-agent/issues/43245,Task impact,Noncompletion,Noncompletion,True,True
+R0208,https://github.com/NousResearch/hermes-agent/issues/43770,Task impact,Noncompletion,Noncompletion,True,True
+R0209,https://github.com/NousResearch/hermes-agent/issues/44046,Task impact,Incorrect result,Incorrect result,True,True
+R0210,https://github.com/NousResearch/hermes-agent/issues/44394,Task impact,Noncompletion,Noncompletion,True,True
+R0211,https://github.com/NousResearch/hermes-agent/issues/44711,Task impact,Incorrect result,Incorrect result,True,True
+R0212,https://github.com/NousResearch/hermes-agent/issues/45175,Task impact,Undetermined,Undetermined,True,True
+R0213,https://github.com/NousResearch/hermes-agent/issues/47647,Task impact,Incorrect result,Incorrect result,True,True
+R0214,https://github.com/NousResearch/hermes-agent/issues/48061,Task impact,Noncompletion,Noncompletion,True,True
+R0215,https://github.com/NousResearch/hermes-agent/issues/50245,Task impact,Incorrect result,Incorrect result,True,True
+R0216,https://github.com/NousResearch/hermes-agent/issues/51691,Task impact,Noncompletion,Noncompletion,True,True
+R0217,https://github.com/NousResearch/hermes-agent/issues/51767,Task impact,Noncompletion,Noncompletion,True,True
+R0218,https://github.com/NousResearch/hermes-agent/issues/53077,Task impact,Incorrect result,Noncompletion,True,False
+R0219,https://github.com/NousResearch/hermes-agent/issues/53359,Task impact,Noncompletion,Noncompletion,True,True
+R0220,https://github.com/NousResearch/hermes-agent/issues/53382,Task impact,Undetermined,Undetermined,True,True
+R0221,https://github.com/NousResearch/hermes-agent/issues/53461,Task impact,Noncompletion,Noncompletion,True,True
+R0222,https://github.com/NousResearch/hermes-agent/issues/57315,Task impact,Noncompletion,Noncompletion,True,True
+R0223,https://github.com/NousResearch/hermes-agent/issues/57608,Task impact,Noncompletion,Noncompletion,True,True
+R0224,https://github.com/NousResearch/hermes-agent/issues/57986,Task impact,Noncompletion,Noncompletion,True,True
+R0225,https://github.com/NousResearch/hermes-agent/issues/58168,Task impact,Noncompletion,Noncompletion,True,True
+R0226,https://github.com/NousResearch/hermes-agent/issues/59403,Task impact,Noncompletion,Noncompletion,True,True
+R0227,https://github.com/NousResearch/hermes-agent/issues/59769,Task impact,Noncompletion,Noncompletion,True,True
+R0228,https://github.com/NousResearch/hermes-agent/issues/60119,Task impact,Noncompletion,Noncompletion,True,True
+R0229,https://github.com/NousResearch/hermes-agent/issues/60328,Task impact,Noncompletion,Noncompletion,True,True
+R0230,https://github.com/NousResearch/hermes-agent/issues/60381,Task impact,Noncompletion,Noncompletion,True,True
+R0231,https://github.com/NousResearch/hermes-agent/issues/60667,Task impact,Noncompletion,Noncompletion,True,True
+R0232,https://github.com/NousResearch/hermes-agent/issues/60821,Task impact,Noncompletion,Noncompletion,True,True
+R0233,https://github.com/NousResearch/hermes-agent/issues/62863,Task impact,Noncompletion,Noncompletion,True,True
+R0234,https://github.com/NousResearch/hermes-agent/issues/63530,Task impact,Noncompletion,Noncompletion,True,True
+R0235,https://github.com/NousResearch/hermes-agent/issues/63555,Task impact,Undetermined,Undetermined,True,True
+R0236,https://github.com/NousResearch/hermes-agent/issues/67052,Task impact,Noncompletion,Undetermined,True,False
+R0237,https://github.com/NousResearch/hermes-agent/issues/68311,Task impact,Incorrect result,Incorrect result,True,True
+R0238,https://github.com/NousResearch/hermes-agent/issues/70856,Task impact,Incorrect result,Incorrect result,True,True
+R0239,https://github.com/NousResearch/hermes-agent/issues/72215,Task impact,Incorrect result,Incorrect result,True,True
+R0240,https://github.com/NousResearch/hermes-agent/issues/74811,Task impact,Incorrect result,Incorrect result,True,True
+R0241,https://github.com/NousResearch/hermes-agent/issues/75228,Task impact,Incorrect result,Incorrect result,True,True
+R0242,https://github.com/NousResearch/hermes-agent/issues/76938,Task impact,Undetermined,Undetermined,True,True
+R0243,https://github.com/NousResearch/hermes-agent/issues/80932,Task impact,Incorrect result,Incorrect result,True,True
+R0244,https://github.com/langgenius/dify/issues/833,Task impact,Noncompletion,Noncompletion,True,True
+R0245,https://github.com/langgenius/dify/issues/2458,Task impact,Undetermined,Undetermined,True,True
+R0246,https://github.com/langgenius/dify/issues/2526,Task impact,Incorrect result,Undetermined,True,False
+R0247,https://github.com/langgenius/dify/issues/3049,Task impact,Noncompletion,Noncompletion,True,True
+R0248,https://github.com/langgenius/dify/issues/3306,Task impact,Incorrect result,Incorrect result,True,True
+R0249,https://github.com/langgenius/dify/issues/4594,Task impact,Noncompletion,Noncompletion,True,True
+R0250,https://github.com/langgenius/dify/issues/4983,Task impact,Incorrect result,Incorrect result,True,True
+R0251,https://github.com/langgenius/dify/issues/5055,Task impact,Noncompletion,Noncompletion,True,True
+R0253,https://github.com/langgenius/dify/issues/5279,Task impact,Noncompletion,Noncompletion,True,True
+R0254,https://github.com/langgenius/dify/issues/5343,Task impact,Noncompletion,Noncompletion,True,True
+R0255,https://github.com/langgenius/dify/issues/5720,Task impact,Incorrect result,Incorrect result,True,True
+R0256,https://github.com/langgenius/dify/issues/5969,Task impact,Incorrect result,Incorrect result,True,True
+R0257,https://github.com/langgenius/dify/issues/6857,Task impact,Partial completion,Partial completion,True,True
+R0258,https://github.com/langgenius/dify/issues/7642,Task impact,Noncompletion,Noncompletion,True,True
+R0259,https://github.com/langgenius/dify/issues/7687,Task impact,Noncompletion,Noncompletion,True,True
+R0260,https://github.com/langgenius/dify/issues/7907,Task impact,Noncompletion,Noncompletion,True,True
+R0261,https://github.com/langgenius/dify/issues/8693,Task impact,Incorrect result,Incorrect result,True,True
+R0262,https://github.com/langgenius/dify/issues/9126,Task impact,Noncompletion,Noncompletion,True,True
+R0263,https://github.com/langgenius/dify/issues/9192,Task impact,Partial completion,Undetermined,True,False
+R0264,https://github.com/langgenius/dify/issues/10159,Task impact,Noncompletion,Noncompletion,True,True
+R0265,https://github.com/langgenius/dify/issues/10507,Task impact,Noncompletion,Noncompletion,True,True
+R0266,https://github.com/langgenius/dify/issues/10639,Task impact,Noncompletion,Noncompletion,True,True
+R0267,https://github.com/langgenius/dify/issues/12108,Task impact,Noncompletion,Noncompletion,True,True
+R0268,https://github.com/langgenius/dify/issues/12168,Task impact,Noncompletion,Noncompletion,True,True
+R0269,https://github.com/langgenius/dify/issues/12298,Task impact,Noncompletion,Noncompletion,True,True
+R0270,https://github.com/langgenius/dify/issues/13008,Task impact,Noncompletion,Noncompletion,True,True
+R0271,https://github.com/langgenius/dify/issues/15005,Task impact,Incorrect result,Noncompletion,True,False
+R0272,https://github.com/langgenius/dify/issues/15040,Task impact,Noncompletion,Noncompletion,True,True
+R0273,https://github.com/langgenius/dify/issues/15159,Task impact,Partial completion,Noncompletion,True,False
+R0274,https://github.com/langgenius/dify/issues/15228,Task impact,Noncompletion,Noncompletion,True,True
+R0275,https://github.com/langgenius/dify/issues/15242,Task impact,Incorrect result,Undetermined,True,False
+R0276,https://github.com/langgenius/dify/issues/15308,Task impact,Noncompletion,Noncompletion,True,True
+R0277,https://github.com/langgenius/dify/issues/15614,Task impact,Noncompletion,Noncompletion,True,True
+R0278,https://github.com/langgenius/dify/issues/16061,Task impact,Noncompletion,Noncompletion,True,True
+R0279,https://github.com/langgenius/dify/issues/16103,Task impact,Noncompletion,Noncompletion,True,True
+R0280,https://github.com/langgenius/dify/issues/16775,Task impact,Partial completion,Partial completion,True,True
+R0281,https://github.com/langgenius/dify/issues/16951,Task impact,Undetermined,Undetermined,True,True
+R0282,https://github.com/langgenius/dify/issues/17012,Task impact,Noncompletion,Noncompletion,True,True
+R0283,https://github.com/langgenius/dify/issues/17089,Task impact,Partial completion,Partial completion,True,True
+R0284,https://github.com/langgenius/dify/issues/18048,Task impact,Incorrect result,Partial completion,True,False
+R0285,https://github.com/langgenius/dify/issues/18057,Task impact,Noncompletion,Noncompletion,True,True
+R0286,https://github.com/langgenius/dify/issues/18276,Task impact,Undetermined,Undetermined,True,True
+R0287,https://github.com/langgenius/dify/issues/18976,Task impact,Noncompletion,Noncompletion,True,True
+R0288,https://github.com/langgenius/dify/issues/19123,Task impact,Incorrect result,Incorrect result,True,True
+R0289,https://github.com/langgenius/dify/issues/19625,Task impact,Noncompletion,Noncompletion,True,True
+R0290,https://github.com/langgenius/dify/issues/19897,Task impact,Noncompletion,Noncompletion,True,True
+R0291,https://github.com/langgenius/dify/issues/19989,Task impact,Noncompletion,Noncompletion,True,True
+R0292,https://github.com/langgenius/dify/issues/20274,Task impact,Noncompletion,Noncompletion,True,True
+R0293,https://github.com/langgenius/dify/issues/20405,Task impact,Noncompletion,Noncompletion,True,True
+R0294,https://github.com/langgenius/dify/issues/20500,Task impact,Noncompletion,Noncompletion,True,True
+R0295,https://github.com/langgenius/dify/issues/20619,Task impact,Noncompletion,Noncompletion,True,True
+R0296,https://github.com/langgenius/dify/issues/20719,Task impact,Noncompletion,Noncompletion,True,True
+R0297,https://github.com/langgenius/dify/issues/22179,Task impact,Noncompletion,Noncompletion,True,True
+R0298,https://github.com/langgenius/dify/issues/22888,Task impact,Noncompletion,Noncompletion,True,True
+R0299,https://github.com/langgenius/dify/issues/23082,Task impact,Noncompletion,Noncompletion,True,True
+R0300,https://github.com/langgenius/dify/issues/23124,Task impact,Noncompletion,Noncompletion,True,True
+R0301,https://github.com/langgenius/dify/issues/23400,Task impact,Noncompletion,Noncompletion,True,True
+R0302,https://github.com/langgenius/dify/issues/23967,Task impact,Noncompletion,Noncompletion,True,True
+R0303,https://github.com/langgenius/dify/issues/23973,Task impact,Noncompletion,Noncompletion,True,True
+R0304,https://github.com/langgenius/dify/issues/24059,Task impact,Noncompletion,Noncompletion,True,True
+R0305,https://github.com/langgenius/dify/issues/24598,Task impact,Noncompletion,Noncompletion,True,True
+R0306,https://github.com/langgenius/dify/issues/24802,Task impact,Noncompletion,Noncompletion,True,True
+R0307,https://github.com/langgenius/dify/issues/24979,Task impact,Noncompletion,Noncompletion,True,True
+R0308,https://github.com/langgenius/dify/issues/25162,Task impact,Noncompletion,Noncompletion,True,True
+R0309,https://github.com/langgenius/dify/issues/25258,Task impact,Noncompletion,Noncompletion,True,True
+R0310,https://github.com/langgenius/dify/issues/25448,Task impact,Partial completion,Partial completion,True,True
+R0311,https://github.com/langgenius/dify/issues/26444,Task impact,Undetermined,Undetermined,True,True
+R0312,https://github.com/langgenius/dify/issues/26533,Task impact,Undetermined,Undetermined,True,True
+R0313,https://github.com/langgenius/dify/issues/26559,Task impact,Noncompletion,Noncompletion,True,True
+R0314,https://github.com/langgenius/dify/issues/26996,Task impact,Noncompletion,Noncompletion,True,True
+R0315,https://github.com/langgenius/dify/issues/27876,Task impact,Noncompletion,Noncompletion,True,True
+R0316,https://github.com/langgenius/dify/issues/28457,Task impact,Incorrect result,Incorrect result,True,True
+R0317,https://github.com/langgenius/dify/issues/28491,Task impact,Noncompletion,Noncompletion,True,True
+R0318,https://github.com/langgenius/dify/issues/29034,Task impact,Incorrect result,Noncompletion,True,False
+R0320,https://github.com/langgenius/dify/issues/29661,Task impact,Partial completion,Partial completion,True,True
+R0321,https://github.com/langgenius/dify/issues/30178,Task impact,Noncompletion,Noncompletion,True,True
+R0322,https://github.com/langgenius/dify/issues/31431,Task impact,Noncompletion,Noncompletion,True,True
+R0323,https://github.com/langgenius/dify/issues/31656,Task impact,Noncompletion,Noncompletion,True,True
+R0324,https://github.com/langgenius/dify/issues/32959,Task impact,Noncompletion,Noncompletion,True,True
+R0325,https://github.com/langgenius/dify/issues/32980,Task impact,Undetermined,Undetermined,True,True
+R0326,https://github.com/langgenius/dify/issues/33009,Task impact,Noncompletion,Noncompletion,True,True
+R0327,https://github.com/langgenius/dify/issues/33626,Task impact,Incorrect result,Incorrect result,True,True
+R0328,https://github.com/langgenius/dify/issues/34446,Task impact,Noncompletion,Noncompletion,True,True
+R0329,https://github.com/langgenius/dify/issues/34564,Task impact,Noncompletion,Noncompletion,True,True
+R0330,https://github.com/langgenius/dify/issues/34787,Task impact,Noncompletion,Noncompletion,True,True
+R0331,https://github.com/langgenius/dify/issues/37338,Task impact,Noncompletion,Noncompletion,True,True
+R0332,https://github.com/langgenius/dify/issues/38050,Task impact,Noncompletion,Noncompletion,True,True
+R0333,https://github.com/langgenius/dify/issues/38085,Task impact,Noncompletion,Noncompletion,True,True
+R0334,https://github.com/langgenius/dify/issues/41042,Task impact,Noncompletion,Noncompletion,True,True
+R0335,https://github.com/langgenius/dify/issues/41169,Task impact,Noncompletion,Noncompletion,True,True
+R0336,https://github.com/langgenius/dify/issues/41321,Task impact,Noncompletion,Noncompletion,True,True
+R0337,https://github.com/langgenius/dify/issues/42388,Task impact,Noncompletion,Noncompletion,True,True
+R0338,https://github.com/open-webui/open-webui/issues/8166,Task impact,Noncompletion,Noncompletion,True,True
+R0339,https://github.com/open-webui/open-webui/issues/10584,Task impact,Partial completion,Partial completion,True,True
+R0340,https://github.com/open-webui/open-webui/issues/12504,Task impact,Noncompletion,Noncompletion,True,True
+R0341,https://github.com/open-webui/open-webui/issues/12705,Task impact,Undetermined,Undetermined,True,True
+R0342,https://github.com/open-webui/open-webui/issues/12796,Task impact,Noncompletion,Noncompletion,True,True
+R0343,https://github.com/open-webui/open-webui/issues/12926,Task impact,Incorrect result,Incorrect result,True,True
+R0344,https://github.com/open-webui/open-webui/issues/13442,Task impact,Partial completion,Partial completion,True,True
+R0345,https://github.com/open-webui/open-webui/issues/14115,Task impact,Noncompletion,Noncompletion,True,True
+R0347,https://github.com/open-webui/open-webui/issues/15375,Task impact,Noncompletion,Noncompletion,True,True
+R0348,https://github.com/open-webui/open-webui/issues/16393,Task impact,Noncompletion,Noncompletion,True,True
+R0349,https://github.com/open-webui/open-webui/issues/16571,Task impact,Noncompletion,Noncompletion,True,True
+R0350,https://github.com/open-webui/open-webui/issues/17016,Task impact,Noncompletion,Noncompletion,True,True
+R0351,https://github.com/open-webui/open-webui/issues/18366,Task impact,Incorrect result,Incorrect result,True,True
+R0352,https://github.com/open-webui/open-webui/issues/18726,Task impact,Undetermined,Undetermined,True,True
+R0353,https://github.com/open-webui/open-webui/issues/18728,Task impact,Undetermined,Undetermined,True,True
+R0354,https://github.com/open-webui/open-webui/issues/19217,Task impact,Noncompletion,Noncompletion,True,True
+R0355,https://github.com/open-webui/open-webui/issues/19328,Task impact,Partial completion,Partial completion,True,True
+R0356,https://github.com/open-webui/open-webui/issues/19564,Task impact,Noncompletion,Noncompletion,True,True
+R0357,https://github.com/open-webui/open-webui/issues/19733,Task impact,Noncompletion,Noncompletion,True,True
+R0358,https://github.com/open-webui/open-webui/issues/20150,Task impact,Noncompletion,Noncompletion,True,True
+R0359,https://github.com/open-webui/open-webui/issues/20237,Task impact,Incorrect result,Incorrect result,True,True
+R0360,https://github.com/open-webui/open-webui/issues/20808,Task impact,Noncompletion,Noncompletion,True,True
+R0361,https://github.com/open-webui/open-webui/issues/20847,Task impact,Noncompletion,Noncompletion,True,True
+R0362,https://github.com/open-webui/open-webui/issues/21179,Task impact,Noncompletion,Noncompletion,True,True
+R0363,https://github.com/open-webui/open-webui/issues/21901,Task impact,Noncompletion,Noncompletion,True,True
+R0364,https://github.com/open-webui/open-webui/issues/21922,Task impact,Partial completion,Partial completion,True,True
+R0365,https://github.com/open-webui/open-webui/issues/22163,Task impact,Noncompletion,Noncompletion,True,True
+R0366,https://github.com/open-webui/open-webui/issues/22913,Task impact,Partial completion,Partial completion,True,True
+R0367,https://github.com/open-webui/open-webui/issues/22994,Task impact,Partial completion,Noncompletion,True,False
+R0368,https://github.com/open-webui/open-webui/issues/23269,Task impact,Undetermined,Undetermined,True,True
+R0369,https://github.com/open-webui/open-webui/issues/23668,Task impact,Noncompletion,Noncompletion,True,True
+R0370,https://github.com/open-webui/open-webui/issues/23749,Task impact,Undetermined,Undetermined,True,True
+R0371,https://github.com/open-webui/open-webui/issues/23997,Task impact,Noncompletion,Noncompletion,True,True
+R0372,https://github.com/open-webui/open-webui/issues/24163,Task impact,Incorrect result,Incorrect result,True,True
+R0373,https://github.com/open-webui/open-webui/issues/24299,Task impact,Noncompletion,Noncompletion,True,True
+R0374,https://github.com/open-webui/open-webui/issues/24381,Task impact,Incorrect result,Incorrect result,True,True
+R0375,https://github.com/open-webui/open-webui/issues/24435,Task impact,Incorrect result,Incorrect result,True,True
+R0376,https://github.com/open-webui/open-webui/issues/24559,Task impact,Partial completion,Partial completion,True,True
+R0377,https://github.com/open-webui/open-webui/issues/25585,Task impact,Incorrect result,Partial completion,True,False
+R0378,https://github.com/open-webui/open-webui/issues/25710,Task impact,Noncompletion,Noncompletion,True,True
+R0379,https://github.com/open-webui/open-webui/issues/26079,Task impact,Noncompletion,Noncompletion,True,True
+R0380,https://github.com/open-webui/open-webui/issues/26892,Task impact,Undetermined,Noncompletion,True,False
+R0381,https://github.com/open-webui/open-webui/issues/27021,Task impact,Noncompletion,Noncompletion,True,True
+R0382,https://github.com/open-webui/open-webui/issues/27081,Task impact,Noncompletion,Noncompletion,True,True
+R0384,https://github.com/open-webui/open-webui/issues/29040,Task impact,Incorrect result,Incorrect result,True,True
+R0385,https://github.com/open-webui/open-webui/issues/29134,Task impact,Partial completion,Partial completion,True,True
+R0386,https://github.com/open-webui/open-webui/issues/31411,Task impact,Incorrect result,Incorrect result,True,True
+R0387,https://github.com/open-webui/open-webui/issues/31566,Task impact,Partial completion,Partial completion,True,True
+R0388,https://github.com/open-webui/open-webui/issues/31907,Task impact,Noncompletion,Noncompletion,True,True
+R0389,https://github.com/open-webui/open-webui/issues/31968,Task impact,Partial completion,Partial completion,True,True
+R0390,https://github.com/earendil-works/pi/issues/71,Task impact,Noncompletion,Noncompletion,True,True
+R0391,https://github.com/earendil-works/pi/issues/128,Task impact,Noncompletion,Noncompletion,True,True
+R0392,https://github.com/earendil-works/pi/issues/143,Task impact,Noncompletion,Undetermined,True,False
+R0393,https://github.com/earendil-works/pi/issues/198,Task impact,Noncompletion,Noncompletion,True,True
+R0394,https://github.com/earendil-works/pi/issues/1140,Task impact,Noncompletion,Noncompletion,True,True
+R0396,https://github.com/earendil-works/pi/issues/1360,Task impact,Noncompletion,Noncompletion,True,True
+R0397,https://github.com/earendil-works/pi/issues/1430,Task impact,Noncompletion,Noncompletion,True,True
+R0398,https://github.com/earendil-works/pi/issues/1736,Task impact,Undetermined,Undetermined,True,True
+R0400,https://github.com/earendil-works/pi/issues/1816,Task impact,Noncompletion,Noncompletion,True,True
+R0401,https://github.com/earendil-works/pi/issues/1832,Task impact,Noncompletion,Noncompletion,True,True
+R0402,https://github.com/earendil-works/pi/issues/2052,Task impact,Partial completion,Partial completion,True,True
+R0403,https://github.com/earendil-works/pi/issues/2301,Task impact,Undetermined,Undetermined,True,True
+R0404,https://github.com/earendil-works/pi/issues/2381,Task impact,Noncompletion,Noncompletion,True,True
+R0405,https://github.com/earendil-works/pi/issues/2383,Task impact,Noncompletion,Noncompletion,True,True
+R0406,https://github.com/earendil-works/pi/issues/2395,Task impact,Noncompletion,Noncompletion,True,True
+R0407,https://github.com/earendil-works/pi/issues/2538,Task impact,Noncompletion,Noncompletion,True,True
+R0408,https://github.com/earendil-works/pi/issues/2579,Task impact,Noncompletion,Noncompletion,True,True
+R0409,https://github.com/earendil-works/pi/issues/2677,Task impact,Partial completion,Partial completion,True,True
+R0410,https://github.com/earendil-works/pi/issues/2719,Task impact,Noncompletion,Noncompletion,True,True
+R0411,https://github.com/earendil-works/pi/issues/2834,Task impact,Noncompletion,Noncompletion,True,True
+R0412,https://github.com/earendil-works/pi/issues/3131,Task impact,Noncompletion,Noncompletion,True,True
+R0413,https://github.com/earendil-works/pi/issues/3358,Task impact,Partial completion,Partial completion,True,True
+R0414,https://github.com/earendil-works/pi/issues/3523,Task impact,Noncompletion,Noncompletion,True,True
+R0415,https://github.com/earendil-works/pi/issues/3552,Task impact,Undetermined,Incorrect result,True,False
+R0416,https://github.com/earendil-works/pi/issues/3811,Task impact,Undetermined,Undetermined,True,True
+R0417,https://github.com/earendil-works/pi/issues/4226,Task impact,Noncompletion,Noncompletion,True,True
+R0418,https://github.com/earendil-works/pi/issues/4311,Task impact,Noncompletion,Noncompletion,True,True
+R0419,https://github.com/earendil-works/pi/issues/4340,Task impact,Noncompletion,Noncompletion,True,True
+R0420,https://github.com/earendil-works/pi/issues/4357,Task impact,Noncompletion,Noncompletion,True,True
+R0421,https://github.com/earendil-works/pi/issues/4375,Task impact,Noncompletion,Noncompletion,True,True
+R0422,https://github.com/earendil-works/pi/issues/4392,Task impact,Noncompletion,Noncompletion,True,True
+R0423,https://github.com/earendil-works/pi/issues/4413,Task impact,Noncompletion,Noncompletion,True,True
+R0424,https://github.com/earendil-works/pi/issues/4481,Task impact,Noncompletion,Noncompletion,True,True
+R0425,https://github.com/earendil-works/pi/issues/4761,Task impact,Incorrect result,Incorrect result,True,True
+R0426,https://github.com/earendil-works/pi/issues/4932,Task impact,Noncompletion,Noncompletion,True,True
+R0427,https://github.com/earendil-works/pi/issues/4934,Task impact,Noncompletion,Noncompletion,True,True
+R0428,https://github.com/earendil-works/pi/issues/5035,Task impact,Noncompletion,Noncompletion,True,True
+R0429,https://github.com/earendil-works/pi/issues/5289,Task impact,Noncompletion,Noncompletion,True,True
+R0430,https://github.com/earendil-works/pi/issues/5574,Task impact,Noncompletion,Noncompletion,True,True
+R0431,https://github.com/earendil-works/pi/issues/5940,Task impact,Noncompletion,Noncompletion,True,True
+R0432,https://github.com/earendil-works/pi/issues/6116,Task impact,Incorrect result,Incorrect result,True,True
+R0433,https://github.com/earendil-works/pi/issues/6276,Task impact,Noncompletion,Noncompletion,True,True
+R0434,https://github.com/earendil-works/pi/issues/6447,Task impact,Noncompletion,Noncompletion,True,True
+R0435,https://github.com/earendil-works/pi/issues/6571,Task impact,Partial completion,Partial completion,True,True
+R0437,https://github.com/earendil-works/pi/issues/6787,Task impact,Noncompletion,Noncompletion,True,True
+R0438,https://github.com/earendil-works/pi/issues/7097,Task impact,Noncompletion,Noncompletion,True,True
+R0440,https://github.com/earendil-works/pi/issues/7282,Task impact,Undetermined,Undetermined,True,True
+R0441,https://github.com/earendil-works/pi/issues/7519,Task impact,Undetermined,Undetermined,True,True
+R0442,https://github.com/earendil-works/pi/issues/7633,Task impact,Noncompletion,Incorrect result,True,False
+R0443,https://github.com/earendil-works/pi/issues/7782,Task impact,Noncompletion,Noncompletion,True,True
+R0444,https://github.com/earendil-works/pi/issues/7835,Task impact,Noncompletion,Noncompletion,True,True
+R0445,https://github.com/earendil-works/pi/issues/8063,Task impact,Noncompletion,Noncompletion,True,True
+R0446,https://github.com/earendil-works/pi/issues/8098,Task impact,Noncompletion,Noncompletion,True,True
+R0447,https://github.com/earendil-works/pi/issues/8210,Task impact,Noncompletion,Noncompletion,True,True
+R0448,https://github.com/earendil-works/pi/issues/8311,Task impact,Undetermined,Undetermined,True,True
+R0449,https://github.com/earendil-works/pi/issues/8441,Task impact,Noncompletion,Noncompletion,True,True
+R0451,https://github.com/earendil-works/pi/issues/8597,Task impact,Noncompletion,Noncompletion,True,True
+R0452,https://github.com/earendil-works/pi/issues/8661,Task impact,Noncompletion,Noncompletion,True,True
+R0453,https://github.com/earendil-works/pi/issues/9034,Task impact,Noncompletion,Noncompletion,True,True
+R0454,https://github.com/earendil-works/pi/issues/9320,Task impact,Noncompletion,Noncompletion,True,True
+R0455,https://github.com/earendil-works/pi/issues/9377,Task impact,Incorrect result,Partial completion,True,False
+R0458,https://github.com/earendil-works/pi/issues/9453,Task impact,Noncompletion,Noncompletion,True,True
+R0460,https://github.com/earendil-works/pi/issues/9654,Task impact,Undetermined,Undetermined,True,True
+R0461,https://github.com/earendil-works/pi/issues/9806,Task impact,Incorrect result,Incorrect result,True,True
+R0462,https://github.com/earendil-works/pi/issues/9812,Task impact,Undetermined,Undetermined,True,True
+R0463,https://github.com/earendil-works/pi/issues/9852,Task impact,Noncompletion,Noncompletion,True,True
+R0464,https://github.com/earendil-works/pi/issues/9933,Task impact,Noncompletion,Noncompletion,True,True
+R0465,https://github.com/earendil-works/pi/issues/9953,Task impact,Noncompletion,Noncompletion,True,True
+R0466,https://github.com/earendil-works/pi/issues/9976,Task impact,Noncompletion,Noncompletion,True,True
+R0467,https://github.com/earendil-works/pi/issues/10239,Task impact,Incorrect result,Incorrect result,True,True
+R0469,https://github.com/earendil-works/pi/issues/10366,Task impact,Undetermined,Undetermined,True,True
+R0470,https://github.com/earendil-works/pi/issues/10424,Task impact,Undetermined,Undetermined,True,True
+R0471,https://github.com/earendil-works/pi/issues/10765,Task impact,Incorrect result,Incorrect result,True,True
+R0001,https://github.com/openclaw/openclaw/issues/1039,User observability,Requires additional verification,Directly apparent,True,False
+R0002,https://github.com/openclaw/openclaw/issues/1312,User observability,Requires additional verification,Requires additional verification,True,True
+R0004,https://github.com/openclaw/openclaw/issues/7158,User observability,Directly apparent,Directly apparent,True,True
+R0005,https://github.com/openclaw/openclaw/issues/7211,User observability,Requires additional verification,Requires additional verification,True,True
+R0006,https://github.com/openclaw/openclaw/issues/8425,User observability,Requires additional verification,Requires additional verification,True,True
+R0007,https://github.com/openclaw/openclaw/issues/8460,User observability,Requires additional verification,Requires additional verification,True,True
+R0008,https://github.com/openclaw/openclaw/issues/10074,User observability,Directly apparent,Directly apparent,True,True
+R0009,https://github.com/openclaw/openclaw/issues/10438,User observability,Directly apparent,Directly apparent,True,True
+R0010,https://github.com/openclaw/openclaw/issues/12674,User observability,Directly apparent,Directly apparent,True,True
+R0011,https://github.com/openclaw/openclaw/issues/14324,User observability,Directly apparent,Directly apparent,True,True
+R0012,https://github.com/openclaw/openclaw/issues/16927,User observability,Directly apparent,Requires additional verification,True,False
+R0013,https://github.com/openclaw/openclaw/issues/17358,User observability,Directly apparent,Directly apparent,True,True
+R0014,https://github.com/openclaw/openclaw/issues/18116,User observability,Directly apparent,Directly apparent,True,True
+R0015,https://github.com/openclaw/openclaw/issues/19312,User observability,Directly apparent,Directly apparent,True,True
+R0016,https://github.com/openclaw/openclaw/issues/20320,User observability,Requires additional verification,Requires additional verification,True,True
+R0017,https://github.com/openclaw/openclaw/issues/21968,User observability,Directly apparent,Requires additional verification,True,False
+R0018,https://github.com/openclaw/openclaw/issues/22197,User observability,Directly apparent,Directly apparent,True,True
+R0019,https://github.com/openclaw/openclaw/issues/22517,User observability,Requires additional verification,Requires additional verification,True,True
+R0020,https://github.com/openclaw/openclaw/issues/23385,User observability,Directly apparent,Directly apparent,True,True
+R0021,https://github.com/openclaw/openclaw/issues/25239,User observability,Requires additional verification,Requires additional verification,True,True
+R0023,https://github.com/openclaw/openclaw/issues/27456,User observability,Directly apparent,Directly apparent,True,True
+R0024,https://github.com/openclaw/openclaw/issues/27758,User observability,Directly apparent,Directly apparent,True,True
+R0025,https://github.com/openclaw/openclaw/issues/29983,User observability,Directly apparent,Directly apparent,True,True
+R0026,https://github.com/openclaw/openclaw/issues/30681,User observability,Requires additional verification,Requires additional verification,True,True
+R0027,https://github.com/openclaw/openclaw/issues/33435,User observability,Directly apparent,Requires additional verification,True,False
+R0028,https://github.com/openclaw/openclaw/issues/35248,User observability,Requires additional verification,Requires additional verification,True,True
+R0029,https://github.com/openclaw/openclaw/issues/39920,User observability,Directly apparent,Directly apparent,True,True
+R0030,https://github.com/openclaw/openclaw/issues/40069,User observability,Requires additional verification,Requires additional verification,True,True
+R0031,https://github.com/openclaw/openclaw/issues/40845,User observability,Directly apparent,Directly apparent,True,True
+R0032,https://github.com/openclaw/openclaw/issues/41168,User observability,Directly apparent,Directly apparent,True,True
+R0033,https://github.com/openclaw/openclaw/issues/41181,User observability,Directly apparent,Directly apparent,True,True
+R0034,https://github.com/openclaw/openclaw/issues/42359,User observability,Requires additional verification,Requires additional verification,True,True
+R0035,https://github.com/openclaw/openclaw/issues/42471,User observability,Directly apparent,Directly apparent,True,True
+R0036,https://github.com/openclaw/openclaw/issues/43383,User observability,Directly apparent,Directly apparent,True,True
+R0037,https://github.com/openclaw/openclaw/issues/44522,User observability,Directly apparent,Directly apparent,True,True
+R0038,https://github.com/openclaw/openclaw/issues/44898,User observability,Requires additional verification,Requires additional verification,True,True
+R0039,https://github.com/openclaw/openclaw/issues/46736,User observability,Requires additional verification,Requires additional verification,True,True
+R0040,https://github.com/openclaw/openclaw/issues/46894,User observability,Directly apparent,Directly apparent,True,True
+R0041,https://github.com/openclaw/openclaw/issues/48759,User observability,Directly apparent,Directly apparent,True,True
+R0042,https://github.com/openclaw/openclaw/issues/48873,User observability,Directly apparent,Directly apparent,True,True
+R0043,https://github.com/openclaw/openclaw/issues/49074,User observability,Requires additional verification,Requires additional verification,True,True
+R0044,https://github.com/openclaw/openclaw/issues/49081,User observability,Directly apparent,Directly apparent,True,True
+R0045,https://github.com/openclaw/openclaw/issues/50398,User observability,Directly apparent,Directly apparent,True,True
+R0046,https://github.com/openclaw/openclaw/issues/52973,User observability,Directly apparent,Directly apparent,True,True
+R0047,https://github.com/openclaw/openclaw/issues/53202,User observability,Requires additional verification,Requires additional verification,True,True
+R0048,https://github.com/openclaw/openclaw/issues/53424,User observability,Directly apparent,Directly apparent,True,True
+R0049,https://github.com/openclaw/openclaw/issues/53497,User observability,Directly apparent,Directly apparent,True,True
+R0050,https://github.com/openclaw/openclaw/issues/54428,User observability,Directly apparent,Directly apparent,True,True
+R0051,https://github.com/openclaw/openclaw/issues/54629,User observability,Directly apparent,Directly apparent,True,True
+R0052,https://github.com/openclaw/openclaw/issues/54763,User observability,Directly apparent,Directly apparent,True,True
+R0053,https://github.com/openclaw/openclaw/issues/54878,User observability,Directly apparent,Directly apparent,True,True
+R0054,https://github.com/openclaw/openclaw/issues/55651,User observability,Directly apparent,Directly apparent,True,True
+R0055,https://github.com/openclaw/openclaw/issues/56161,User observability,Requires additional verification,Directly apparent,True,False
+R0056,https://github.com/openclaw/openclaw/issues/56699,User observability,Directly apparent,Directly apparent,True,True
+R0057,https://github.com/openclaw/openclaw/issues/56913,User observability,Requires additional verification,Requires additional verification,True,True
+R0058,https://github.com/openclaw/openclaw/issues/58115,User observability,Directly apparent,Directly apparent,True,True
+R0059,https://github.com/openclaw/openclaw/issues/59228,User observability,Requires additional verification,Directly apparent,True,False
+R0060,https://github.com/openclaw/openclaw/issues/59345,User observability,Directly apparent,Directly apparent,True,True
+R0062,https://github.com/openclaw/openclaw/issues/60879,User observability,Requires additional verification,Requires additional verification,True,True
+R0063,https://github.com/openclaw/openclaw/issues/61237,User observability,Requires additional verification,Requires additional verification,True,True
+R0064,https://github.com/openclaw/openclaw/issues/62558,User observability,Directly apparent,Directly apparent,True,True
+R0065,https://github.com/openclaw/openclaw/issues/62940,User observability,Directly apparent,Directly apparent,True,True
+R0066,https://github.com/openclaw/openclaw/issues/63066,User observability,Directly apparent,Directly apparent,True,True
+R0067,https://github.com/openclaw/openclaw/issues/64921,User observability,Requires additional verification,Requires additional verification,True,True
+R0068,https://github.com/openclaw/openclaw/issues/65122,User observability,Directly apparent,Directly apparent,True,True
+R0069,https://github.com/openclaw/openclaw/issues/65183,User observability,Directly apparent,Directly apparent,True,True
+R0070,https://github.com/openclaw/openclaw/issues/65954,User observability,Directly apparent,Directly apparent,True,True
+R0071,https://github.com/openclaw/openclaw/issues/66581,User observability,Requires additional verification,Requires additional verification,True,True
+R0072,https://github.com/openclaw/openclaw/issues/69386,User observability,Directly apparent,Directly apparent,True,True
+R0073,https://github.com/openclaw/openclaw/issues/70717,User observability,Requires additional verification,Requires additional verification,True,True
+R0074,https://github.com/openclaw/openclaw/issues/71592,User observability,Directly apparent,Directly apparent,True,True
+R0075,https://github.com/openclaw/openclaw/issues/71756,User observability,Requires additional verification,Requires additional verification,True,True
+R0076,https://github.com/openclaw/openclaw/issues/72061,User observability,Directly apparent,Directly apparent,True,True
+R0077,https://github.com/openclaw/openclaw/issues/72632,User observability,Directly apparent,Directly apparent,True,True
+R0078,https://github.com/openclaw/openclaw/issues/74181,User observability,Directly apparent,Directly apparent,True,True
+R0080,https://github.com/openclaw/openclaw/issues/75158,User observability,Requires additional verification,Requires additional verification,True,True
+R0081,https://github.com/openclaw/openclaw/issues/75512,User observability,Directly apparent,Directly apparent,True,True
+R0082,https://github.com/openclaw/openclaw/issues/75887,User observability,Directly apparent,Directly apparent,True,True
+R0083,https://github.com/openclaw/openclaw/issues/76209,User observability,Requires additional verification,Directly apparent,True,False
+R0084,https://github.com/openclaw/openclaw/issues/76412,User observability,Requires additional verification,Requires additional verification,True,True
+R0085,https://github.com/openclaw/openclaw/issues/77106,User observability,Directly apparent,Directly apparent,True,True
+R0086,https://github.com/openclaw/openclaw/issues/77233,User observability,Directly apparent,Directly apparent,True,True
+R0087,https://github.com/openclaw/openclaw/issues/77359,User observability,Directly apparent,Directly apparent,True,True
+R0088,https://github.com/openclaw/openclaw/issues/77434,User observability,Directly apparent,Directly apparent,True,True
+R0089,https://github.com/openclaw/openclaw/issues/78260,User observability,Directly apparent,Directly apparent,True,True
+R0090,https://github.com/openclaw/openclaw/issues/78671,User observability,Directly apparent,Directly apparent,True,True
+R0091,https://github.com/openclaw/openclaw/issues/81492,User observability,Requires additional verification,Requires additional verification,True,True
+R0092,https://github.com/openclaw/openclaw/issues/81594,User observability,Directly apparent,Directly apparent,True,True
+R0093,https://github.com/openclaw/openclaw/issues/83820,User observability,Requires additional verification,Requires additional verification,True,True
+R0094,https://github.com/openclaw/openclaw/issues/84659,User observability,Requires additional verification,Requires additional verification,True,True
+R0095,https://github.com/openclaw/openclaw/issues/86775,User observability,Directly apparent,Directly apparent,True,True
+R0096,https://github.com/openclaw/openclaw/issues/88056,User observability,Directly apparent,Directly apparent,True,True
+R0097,https://github.com/openclaw/openclaw/issues/88195,User observability,Requires additional verification,Requires additional verification,True,True
+R0098,https://github.com/openclaw/openclaw/issues/90578,User observability,Requires additional verification,Requires additional verification,True,True
+R0099,https://github.com/openclaw/openclaw/issues/90638,User observability,Directly apparent,Directly apparent,True,True
+R0100,https://github.com/openclaw/openclaw/issues/90640,User observability,Requires additional verification,Requires additional verification,True,True
+R0101,https://github.com/openclaw/openclaw/issues/91164,User observability,Directly apparent,Directly apparent,True,True
+R0102,https://github.com/openclaw/openclaw/issues/91805,User observability,Directly apparent,Directly apparent,True,True
+R0103,https://github.com/openclaw/openclaw/issues/92338,User observability,Requires additional verification,Requires additional verification,True,True
+R0104,https://github.com/openclaw/openclaw/issues/92486,User observability,Directly apparent,Directly apparent,True,True
+R0105,https://github.com/openclaw/openclaw/issues/97686,User observability,Directly apparent,Directly apparent,True,True
+R0106,https://github.com/openclaw/openclaw/issues/99240,User observability,Directly apparent,Directly apparent,True,True
+R0107,https://github.com/openclaw/openclaw/issues/99434,User observability,Directly apparent,Directly apparent,True,True
+R0108,https://github.com/openclaw/openclaw/issues/100250,User observability,Directly apparent,Directly apparent,True,True
+R0109,https://github.com/openclaw/openclaw/issues/102508,User observability,Directly apparent,Directly apparent,True,True
+R0110,https://github.com/openclaw/openclaw/issues/102854,User observability,Requires additional verification,Requires additional verification,True,True
+R0111,https://github.com/openclaw/openclaw/issues/104743,User observability,Directly apparent,Directly apparent,True,True
+R0112,https://github.com/openclaw/openclaw/issues/105110,User observability,Directly apparent,Directly apparent,True,True
+R0113,https://github.com/openclaw/openclaw/issues/106517,User observability,Requires additional verification,Requires additional verification,True,True
+R0114,https://github.com/openclaw/openclaw/issues/107406,User observability,Directly apparent,Directly apparent,True,True
+R0115,https://github.com/openclaw/openclaw/issues/108432,User observability,Requires additional verification,Directly apparent,True,False
+R0116,https://github.com/openclaw/openclaw/issues/115443,User observability,Undetermined,Undetermined,True,True
+R0117,https://github.com/openclaw/openclaw/issues/118018,User observability,Directly apparent,Directly apparent,True,True
+R0118,https://github.com/openclaw/openclaw/issues/119143,User observability,Requires additional verification,Requires additional verification,True,True
+R0119,https://github.com/openclaw/openclaw/issues/122812,User observability,Requires additional verification,Requires additional verification,True,True
+R0120,https://github.com/openclaw/openclaw/issues/126996,User observability,Directly apparent,Directly apparent,True,True
+R0121,https://github.com/openclaw/openclaw/issues/127034,User observability,Directly apparent,Directly apparent,True,True
+R0122,https://github.com/openclaw/openclaw/issues/128755,User observability,Directly apparent,Requires additional verification,True,False
+R0123,https://github.com/openclaw/openclaw/issues/138383,User observability,Requires additional verification,Directly apparent,True,False
+R0125,https://github.com/openclaw/openclaw/issues/149553,User observability,Requires additional verification,Requires additional verification,True,True
+R0126,https://github.com/openclaw/openclaw/issues/157078,User observability,Directly apparent,Directly apparent,True,True
+R0127,https://github.com/openclaw/openclaw/issues/161739,User observability,Requires additional verification,Requires additional verification,True,True
+R0128,https://github.com/openclaw/openclaw/issues/162880,User observability,Requires additional verification,Requires additional verification,True,True
+R0129,https://github.com/openclaw/openclaw/issues/166709,User observability,Directly apparent,Directly apparent,True,True
+R0130,https://github.com/NousResearch/hermes-agent/issues/44,User observability,Requires additional verification,Requires additional verification,True,True
+R0131,https://github.com/NousResearch/hermes-agent/issues/387,User observability,Requires additional verification,Requires additional verification,True,True
+R0132,https://github.com/NousResearch/hermes-agent/issues/487,User observability,Undetermined,Undetermined,True,True
+R0133,https://github.com/NousResearch/hermes-agent/issues/493,User observability,Undetermined,Undetermined,True,True
+R0134,https://github.com/NousResearch/hermes-agent/issues/630,User observability,Directly apparent,Directly apparent,True,True
+R0135,https://github.com/NousResearch/hermes-agent/issues/1093,User observability,Undetermined,Directly apparent,True,False
+R0136,https://github.com/NousResearch/hermes-agent/issues/1451,User observability,Directly apparent,Directly apparent,True,True
+R0137,https://github.com/NousResearch/hermes-agent/issues/2066,User observability,Requires additional verification,Requires additional verification,True,True
+R0138,https://github.com/NousResearch/hermes-agent/issues/2338,User observability,Directly apparent,Directly apparent,True,True
+R0139,https://github.com/NousResearch/hermes-agent/issues/2940,User observability,Directly apparent,Requires additional verification,True,False
+R0140,https://github.com/NousResearch/hermes-agent/issues/4219,User observability,Directly apparent,Directly apparent,True,True
+R0141,https://github.com/NousResearch/hermes-agent/issues/4319,User observability,Requires additional verification,Requires additional verification,True,True
+R0142,https://github.com/NousResearch/hermes-agent/issues/4829,User observability,Directly apparent,Directly apparent,True,True
+R0144,https://github.com/NousResearch/hermes-agent/issues/5128,User observability,Requires additional verification,Requires additional verification,True,True
+R0145,https://github.com/NousResearch/hermes-agent/issues/5217,User observability,Directly apparent,Directly apparent,True,True
+R0146,https://github.com/NousResearch/hermes-agent/issues/5563,User observability,Requires additional verification,Requires additional verification,True,True
+R0147,https://github.com/NousResearch/hermes-agent/issues/6035,User observability,Requires additional verification,Requires additional verification,True,True
+R0148,https://github.com/NousResearch/hermes-agent/issues/6582,User observability,Requires additional verification,Requires additional verification,True,True
+R0149,https://github.com/NousResearch/hermes-agent/issues/7072,User observability,Requires additional verification,Requires additional verification,True,True
+R0150,https://github.com/NousResearch/hermes-agent/issues/7669,User observability,Requires additional verification,Requires additional verification,True,True
+R0151,https://github.com/NousResearch/hermes-agent/issues/7968,User observability,Requires additional verification,Requires additional verification,True,True
+R0152,https://github.com/NousResearch/hermes-agent/issues/8193,User observability,Requires additional verification,Requires additional verification,True,True
+R0153,https://github.com/NousResearch/hermes-agent/issues/8487,User observability,Directly apparent,Directly apparent,True,True
+R0154,https://github.com/NousResearch/hermes-agent/issues/9712,User observability,Requires additional verification,Requires additional verification,True,True
+R0155,https://github.com/NousResearch/hermes-agent/issues/9809,User observability,Requires additional verification,Requires additional verification,True,True
+R0156,https://github.com/NousResearch/hermes-agent/issues/10946,User observability,Directly apparent,Directly apparent,True,True
+R0157,https://github.com/NousResearch/hermes-agent/issues/11200,User observability,Requires additional verification,Requires additional verification,True,True
+R0158,https://github.com/NousResearch/hermes-agent/issues/13026,User observability,Directly apparent,Directly apparent,True,True
+R0159,https://github.com/NousResearch/hermes-agent/issues/13027,User observability,Requires additional verification,Requires additional verification,True,True
+R0160,https://github.com/NousResearch/hermes-agent/issues/13065,User observability,Requires additional verification,Requires additional verification,True,True
+R0163,https://github.com/NousResearch/hermes-agent/issues/14603,User observability,Requires additional verification,Requires additional verification,True,True
+R0164,https://github.com/NousResearch/hermes-agent/issues/15759,User observability,Directly apparent,Directly apparent,True,True
+R0165,https://github.com/NousResearch/hermes-agent/issues/16094,User observability,Directly apparent,Directly apparent,True,True
+R0166,https://github.com/NousResearch/hermes-agent/issues/16294,User observability,Directly apparent,Directly apparent,True,True
+R0167,https://github.com/NousResearch/hermes-agent/issues/16452,User observability,Directly apparent,Directly apparent,True,True
+R0169,https://github.com/NousResearch/hermes-agent/issues/17182,User observability,Directly apparent,Directly apparent,True,True
+R0170,https://github.com/NousResearch/hermes-agent/issues/17558,User observability,Directly apparent,Directly apparent,True,True
+R0171,https://github.com/NousResearch/hermes-agent/issues/18373,User observability,Requires additional verification,Requires additional verification,True,True
+R0172,https://github.com/NousResearch/hermes-agent/issues/18671,User observability,Requires additional verification,Requires additional verification,True,True
+R0173,https://github.com/NousResearch/hermes-agent/issues/18993,User observability,Directly apparent,Directly apparent,True,True
+R0174,https://github.com/NousResearch/hermes-agent/issues/21028,User observability,Directly apparent,Directly apparent,True,True
+R0175,https://github.com/NousResearch/hermes-agent/issues/21790,User observability,Directly apparent,Directly apparent,True,True
+R0176,https://github.com/NousResearch/hermes-agent/issues/22357,User observability,Requires additional verification,Requires additional verification,True,True
+R0177,https://github.com/NousResearch/hermes-agent/issues/22563,User observability,Directly apparent,Directly apparent,True,True
+R0178,https://github.com/NousResearch/hermes-agent/issues/22761,User observability,Requires additional verification,Directly apparent,True,False
+R0179,https://github.com/NousResearch/hermes-agent/issues/22897,User observability,Undetermined,Undetermined,True,True
+R0180,https://github.com/NousResearch/hermes-agent/issues/23402,User observability,Undetermined,Directly apparent,True,False
+R0181,https://github.com/NousResearch/hermes-agent/issues/24969,User observability,Requires additional verification,Requires additional verification,True,True
+R0182,https://github.com/NousResearch/hermes-agent/issues/26352,User observability,Undetermined,Undetermined,True,True
+R0183,https://github.com/NousResearch/hermes-agent/issues/27145,User observability,Undetermined,Requires additional verification,True,False
+R0184,https://github.com/NousResearch/hermes-agent/issues/27540,User observability,Undetermined,Directly apparent,True,False
+R0185,https://github.com/NousResearch/hermes-agent/issues/27606,User observability,Directly apparent,Directly apparent,True,True
+R0186,https://github.com/NousResearch/hermes-agent/issues/29015,User observability,Directly apparent,Directly apparent,True,True
+R0187,https://github.com/NousResearch/hermes-agent/issues/30010,User observability,Directly apparent,Directly apparent,True,True
+R0188,https://github.com/NousResearch/hermes-agent/issues/30896,User observability,Requires additional verification,Requires additional verification,True,True
+R0189,https://github.com/NousResearch/hermes-agent/issues/30904,User observability,Directly apparent,Directly apparent,True,True
+R0190,https://github.com/NousResearch/hermes-agent/issues/30966,User observability,Undetermined,Requires additional verification,True,False
+R0191,https://github.com/NousResearch/hermes-agent/issues/31033,User observability,Requires additional verification,Requires additional verification,True,True
+R0192,https://github.com/NousResearch/hermes-agent/issues/32396,User observability,Requires additional verification,Requires additional verification,True,True
+R0194,https://github.com/NousResearch/hermes-agent/issues/32899,User observability,Directly apparent,Directly apparent,True,True
+R0195,https://github.com/NousResearch/hermes-agent/issues/33299,User observability,Directly apparent,Directly apparent,True,True
+R0196,https://github.com/NousResearch/hermes-agent/issues/33525,User observability,Directly apparent,Directly apparent,True,True
+R0197,https://github.com/NousResearch/hermes-agent/issues/33925,User observability,Directly apparent,Directly apparent,True,True
+R0198,https://github.com/NousResearch/hermes-agent/issues/34689,User observability,Directly apparent,Directly apparent,True,True
+R0199,https://github.com/NousResearch/hermes-agent/issues/34806,User observability,Requires additional verification,Directly apparent,True,False
+R0200,https://github.com/NousResearch/hermes-agent/issues/35406,User observability,Requires additional verification,Requires additional verification,True,True
+R0201,https://github.com/NousResearch/hermes-agent/issues/35736,User observability,Directly apparent,Directly apparent,True,True
+R0202,https://github.com/NousResearch/hermes-agent/issues/36012,User observability,Directly apparent,Directly apparent,True,True
+R0204,https://github.com/NousResearch/hermes-agent/issues/38459,User observability,Directly apparent,Directly apparent,True,True
+R0205,https://github.com/NousResearch/hermes-agent/issues/40683,User observability,Directly apparent,Directly apparent,True,True
+R0206,https://github.com/NousResearch/hermes-agent/issues/41671,User observability,Directly apparent,Directly apparent,True,True
+R0207,https://github.com/NousResearch/hermes-agent/issues/43245,User observability,Directly apparent,Directly apparent,True,True
+R0208,https://github.com/NousResearch/hermes-agent/issues/43770,User observability,Directly apparent,Directly apparent,True,True
+R0209,https://github.com/NousResearch/hermes-agent/issues/44046,User observability,Requires additional verification,Requires additional verification,True,True
+R0210,https://github.com/NousResearch/hermes-agent/issues/44394,User observability,Directly apparent,Directly apparent,True,True
+R0211,https://github.com/NousResearch/hermes-agent/issues/44711,User observability,Directly apparent,Directly apparent,True,True
+R0212,https://github.com/NousResearch/hermes-agent/issues/45175,User observability,Directly apparent,Directly apparent,True,True
+R0213,https://github.com/NousResearch/hermes-agent/issues/47647,User observability,Requires additional verification,Requires additional verification,True,True
+R0214,https://github.com/NousResearch/hermes-agent/issues/48061,User observability,Directly apparent,Directly apparent,True,True
+R0215,https://github.com/NousResearch/hermes-agent/issues/50245,User observability,Directly apparent,Directly apparent,True,True
+R0216,https://github.com/NousResearch/hermes-agent/issues/51691,User observability,Directly apparent,Directly apparent,True,True
+R0217,https://github.com/NousResearch/hermes-agent/issues/51767,User observability,Directly apparent,Directly apparent,True,True
+R0218,https://github.com/NousResearch/hermes-agent/issues/53077,User observability,Requires additional verification,Directly apparent,True,False
+R0219,https://github.com/NousResearch/hermes-agent/issues/53359,User observability,Directly apparent,Directly apparent,True,True
+R0220,https://github.com/NousResearch/hermes-agent/issues/53382,User observability,Undetermined,Undetermined,True,True
+R0221,https://github.com/NousResearch/hermes-agent/issues/53461,User observability,Directly apparent,Directly apparent,True,True
+R0222,https://github.com/NousResearch/hermes-agent/issues/57315,User observability,Directly apparent,Directly apparent,True,True
+R0223,https://github.com/NousResearch/hermes-agent/issues/57608,User observability,Directly apparent,Directly apparent,True,True
+R0224,https://github.com/NousResearch/hermes-agent/issues/57986,User observability,Directly apparent,Directly apparent,True,True
+R0225,https://github.com/NousResearch/hermes-agent/issues/58168,User observability,Directly apparent,Directly apparent,True,True
+R0226,https://github.com/NousResearch/hermes-agent/issues/59403,User observability,Directly apparent,Directly apparent,True,True
+R0227,https://github.com/NousResearch/hermes-agent/issues/59769,User observability,Directly apparent,Directly apparent,True,True
+R0228,https://github.com/NousResearch/hermes-agent/issues/60119,User observability,Directly apparent,Directly apparent,True,True
+R0229,https://github.com/NousResearch/hermes-agent/issues/60328,User observability,Directly apparent,Directly apparent,True,True
+R0230,https://github.com/NousResearch/hermes-agent/issues/60381,User observability,Directly apparent,Directly apparent,True,True
+R0231,https://github.com/NousResearch/hermes-agent/issues/60667,User observability,Directly apparent,Directly apparent,True,True
+R0232,https://github.com/NousResearch/hermes-agent/issues/60821,User observability,Directly apparent,Directly apparent,True,True
+R0233,https://github.com/NousResearch/hermes-agent/issues/62863,User observability,Directly apparent,Directly apparent,True,True
+R0234,https://github.com/NousResearch/hermes-agent/issues/63530,User observability,Directly apparent,Directly apparent,True,True
+R0235,https://github.com/NousResearch/hermes-agent/issues/63555,User observability,Directly apparent,Directly apparent,True,True
+R0236,https://github.com/NousResearch/hermes-agent/issues/67052,User observability,Requires additional verification,Requires additional verification,True,True
+R0237,https://github.com/NousResearch/hermes-agent/issues/68311,User observability,Requires additional verification,Directly apparent,True,False
+R0238,https://github.com/NousResearch/hermes-agent/issues/70856,User observability,Requires additional verification,Requires additional verification,True,True
+R0239,https://github.com/NousResearch/hermes-agent/issues/72215,User observability,Requires additional verification,Requires additional verification,True,True
+R0240,https://github.com/NousResearch/hermes-agent/issues/74811,User observability,Directly apparent,Directly apparent,True,True
+R0241,https://github.com/NousResearch/hermes-agent/issues/75228,User observability,Requires additional verification,Requires additional verification,True,True
+R0242,https://github.com/NousResearch/hermes-agent/issues/76938,User observability,Directly apparent,Directly apparent,True,True
+R0243,https://github.com/NousResearch/hermes-agent/issues/80932,User observability,Requires additional verification,Requires additional verification,True,True
+R0244,https://github.com/langgenius/dify/issues/833,User observability,Directly apparent,Directly apparent,True,True
+R0245,https://github.com/langgenius/dify/issues/2458,User observability,Requires additional verification,Requires additional verification,True,True
+R0246,https://github.com/langgenius/dify/issues/2526,User observability,Requires additional verification,Requires additional verification,True,True
+R0247,https://github.com/langgenius/dify/issues/3049,User observability,Directly apparent,Directly apparent,True,True
+R0248,https://github.com/langgenius/dify/issues/3306,User observability,Directly apparent,Directly apparent,True,True
+R0249,https://github.com/langgenius/dify/issues/4594,User observability,Directly apparent,Directly apparent,True,True
+R0250,https://github.com/langgenius/dify/issues/4983,User observability,Requires additional verification,Requires additional verification,True,True
+R0251,https://github.com/langgenius/dify/issues/5055,User observability,Directly apparent,Directly apparent,True,True
+R0253,https://github.com/langgenius/dify/issues/5279,User observability,Directly apparent,Directly apparent,True,True
+R0254,https://github.com/langgenius/dify/issues/5343,User observability,Directly apparent,Directly apparent,True,True
+R0255,https://github.com/langgenius/dify/issues/5720,User observability,Directly apparent,Directly apparent,True,True
+R0256,https://github.com/langgenius/dify/issues/5969,User observability,Directly apparent,Directly apparent,True,True
+R0257,https://github.com/langgenius/dify/issues/6857,User observability,Directly apparent,Directly apparent,True,True
+R0258,https://github.com/langgenius/dify/issues/7642,User observability,Directly apparent,Directly apparent,True,True
+R0259,https://github.com/langgenius/dify/issues/7687,User observability,Directly apparent,Directly apparent,True,True
+R0260,https://github.com/langgenius/dify/issues/7907,User observability,Directly apparent,Directly apparent,True,True
+R0261,https://github.com/langgenius/dify/issues/8693,User observability,Requires additional verification,Requires additional verification,True,True
+R0262,https://github.com/langgenius/dify/issues/9126,User observability,Directly apparent,Directly apparent,True,True
+R0263,https://github.com/langgenius/dify/issues/9192,User observability,Requires additional verification,Requires additional verification,True,True
+R0264,https://github.com/langgenius/dify/issues/10159,User observability,Directly apparent,Directly apparent,True,True
+R0265,https://github.com/langgenius/dify/issues/10507,User observability,Directly apparent,Directly apparent,True,True
+R0266,https://github.com/langgenius/dify/issues/10639,User observability,Directly apparent,Directly apparent,True,True
+R0267,https://github.com/langgenius/dify/issues/12108,User observability,Directly apparent,Directly apparent,True,True
+R0268,https://github.com/langgenius/dify/issues/12168,User observability,Directly apparent,Directly apparent,True,True
+R0269,https://github.com/langgenius/dify/issues/12298,User observability,Directly apparent,Directly apparent,True,True
+R0270,https://github.com/langgenius/dify/issues/13008,User observability,Directly apparent,Directly apparent,True,True
+R0271,https://github.com/langgenius/dify/issues/15005,User observability,Requires additional verification,Requires additional verification,True,True
+R0272,https://github.com/langgenius/dify/issues/15040,User observability,Directly apparent,Directly apparent,True,True
+R0273,https://github.com/langgenius/dify/issues/15159,User observability,Requires additional verification,Directly apparent,True,False
+R0274,https://github.com/langgenius/dify/issues/15228,User observability,Directly apparent,Directly apparent,True,True
+R0275,https://github.com/langgenius/dify/issues/15242,User observability,Directly apparent,Directly apparent,True,True
+R0276,https://github.com/langgenius/dify/issues/15308,User observability,Directly apparent,Directly apparent,True,True
+R0277,https://github.com/langgenius/dify/issues/15614,User observability,Directly apparent,Directly apparent,True,True
+R0278,https://github.com/langgenius/dify/issues/16061,User observability,Directly apparent,Directly apparent,True,True
+R0279,https://github.com/langgenius/dify/issues/16103,User observability,Directly apparent,Directly apparent,True,True
+R0280,https://github.com/langgenius/dify/issues/16775,User observability,Requires additional verification,Requires additional verification,True,True
+R0281,https://github.com/langgenius/dify/issues/16951,User observability,Directly apparent,Directly apparent,True,True
+R0282,https://github.com/langgenius/dify/issues/17012,User observability,Directly apparent,Directly apparent,True,True
+R0283,https://github.com/langgenius/dify/issues/17089,User observability,Requires additional verification,Requires additional verification,True,True
+R0284,https://github.com/langgenius/dify/issues/18048,User observability,Requires additional verification,Requires additional verification,True,True
+R0285,https://github.com/langgenius/dify/issues/18057,User observability,Directly apparent,Directly apparent,True,True
+R0286,https://github.com/langgenius/dify/issues/18276,User observability,Directly apparent,Directly apparent,True,True
+R0287,https://github.com/langgenius/dify/issues/18976,User observability,Directly apparent,Directly apparent,True,True
+R0288,https://github.com/langgenius/dify/issues/19123,User observability,Requires additional verification,Requires additional verification,True,True
+R0289,https://github.com/langgenius/dify/issues/19625,User observability,Directly apparent,Directly apparent,True,True
+R0290,https://github.com/langgenius/dify/issues/19897,User observability,Requires additional verification,Requires additional verification,True,True
+R0291,https://github.com/langgenius/dify/issues/19989,User observability,Directly apparent,Directly apparent,True,True
+R0292,https://github.com/langgenius/dify/issues/20274,User observability,Directly apparent,Directly apparent,True,True
+R0293,https://github.com/langgenius/dify/issues/20405,User observability,Directly apparent,Directly apparent,True,True
+R0294,https://github.com/langgenius/dify/issues/20500,User observability,Directly apparent,Directly apparent,True,True
+R0295,https://github.com/langgenius/dify/issues/20619,User observability,Directly apparent,Directly apparent,True,True
+R0296,https://github.com/langgenius/dify/issues/20719,User observability,Directly apparent,Directly apparent,True,True
+R0297,https://github.com/langgenius/dify/issues/22179,User observability,Directly apparent,Directly apparent,True,True
+R0298,https://github.com/langgenius/dify/issues/22888,User observability,Directly apparent,Directly apparent,True,True
+R0299,https://github.com/langgenius/dify/issues/23082,User observability,Directly apparent,Directly apparent,True,True
+R0300,https://github.com/langgenius/dify/issues/23124,User observability,Directly apparent,Directly apparent,True,True
+R0301,https://github.com/langgenius/dify/issues/23400,User observability,Directly apparent,Directly apparent,True,True
+R0302,https://github.com/langgenius/dify/issues/23967,User observability,Directly apparent,Directly apparent,True,True
+R0303,https://github.com/langgenius/dify/issues/23973,User observability,Directly apparent,Directly apparent,True,True
+R0304,https://github.com/langgenius/dify/issues/24059,User observability,Directly apparent,Directly apparent,True,True
+R0305,https://github.com/langgenius/dify/issues/24598,User observability,Directly apparent,Directly apparent,True,True
+R0306,https://github.com/langgenius/dify/issues/24802,User observability,Directly apparent,Directly apparent,True,True
+R0307,https://github.com/langgenius/dify/issues/24979,User observability,Directly apparent,Directly apparent,True,True
+R0308,https://github.com/langgenius/dify/issues/25162,User observability,Directly apparent,Directly apparent,True,True
+R0309,https://github.com/langgenius/dify/issues/25258,User observability,Directly apparent,Directly apparent,True,True
+R0310,https://github.com/langgenius/dify/issues/25448,User observability,Requires additional verification,Requires additional verification,True,True
+R0311,https://github.com/langgenius/dify/issues/26444,User observability,Undetermined,Undetermined,True,True
+R0312,https://github.com/langgenius/dify/issues/26533,User observability,Requires additional verification,Requires additional verification,True,True
+R0313,https://github.com/langgenius/dify/issues/26559,User observability,Directly apparent,Directly apparent,True,True
+R0314,https://github.com/langgenius/dify/issues/26996,User observability,Directly apparent,Directly apparent,True,True
+R0315,https://github.com/langgenius/dify/issues/27876,User observability,Directly apparent,Directly apparent,True,True
+R0316,https://github.com/langgenius/dify/issues/28457,User observability,Requires additional verification,Directly apparent,True,False
+R0317,https://github.com/langgenius/dify/issues/28491,User observability,Directly apparent,Directly apparent,True,True
+R0318,https://github.com/langgenius/dify/issues/29034,User observability,Directly apparent,Directly apparent,True,True
+R0320,https://github.com/langgenius/dify/issues/29661,User observability,Requires additional verification,Requires additional verification,True,True
+R0321,https://github.com/langgenius/dify/issues/30178,User observability,Directly apparent,Directly apparent,True,True
+R0322,https://github.com/langgenius/dify/issues/31431,User observability,Directly apparent,Directly apparent,True,True
+R0323,https://github.com/langgenius/dify/issues/31656,User observability,Directly apparent,Directly apparent,True,True
+R0324,https://github.com/langgenius/dify/issues/32959,User observability,Directly apparent,Directly apparent,True,True
+R0325,https://github.com/langgenius/dify/issues/32980,User observability,Directly apparent,Directly apparent,True,True
+R0326,https://github.com/langgenius/dify/issues/33009,User observability,Directly apparent,Directly apparent,True,True
+R0327,https://github.com/langgenius/dify/issues/33626,User observability,Requires additional verification,Directly apparent,True,False
+R0328,https://github.com/langgenius/dify/issues/34446,User observability,Directly apparent,Directly apparent,True,True
+R0329,https://github.com/langgenius/dify/issues/34564,User observability,Directly apparent,Directly apparent,True,True
+R0330,https://github.com/langgenius/dify/issues/34787,User observability,Directly apparent,Directly apparent,True,True
+R0331,https://github.com/langgenius/dify/issues/37338,User observability,Directly apparent,Directly apparent,True,True
+R0332,https://github.com/langgenius/dify/issues/38050,User observability,Requires additional verification,Requires additional verification,True,True
+R0333,https://github.com/langgenius/dify/issues/38085,User observability,Requires additional verification,Requires additional verification,True,True
+R0334,https://github.com/langgenius/dify/issues/41042,User observability,Directly apparent,Directly apparent,True,True
+R0335,https://github.com/langgenius/dify/issues/41169,User observability,Directly apparent,Directly apparent,True,True
+R0336,https://github.com/langgenius/dify/issues/41321,User observability,Directly apparent,Directly apparent,True,True
+R0337,https://github.com/langgenius/dify/issues/42388,User observability,Directly apparent,Directly apparent,True,True
+R0338,https://github.com/open-webui/open-webui/issues/8166,User observability,Requires additional verification,Requires additional verification,True,True
+R0339,https://github.com/open-webui/open-webui/issues/10584,User observability,Requires additional verification,Requires additional verification,True,True
+R0340,https://github.com/open-webui/open-webui/issues/12504,User observability,Directly apparent,Directly apparent,True,True
+R0341,https://github.com/open-webui/open-webui/issues/12705,User observability,Requires additional verification,Requires additional verification,True,True
+R0342,https://github.com/open-webui/open-webui/issues/12796,User observability,Directly apparent,Directly apparent,True,True
+R0343,https://github.com/open-webui/open-webui/issues/12926,User observability,Requires additional verification,Requires additional verification,True,True
+R0344,https://github.com/open-webui/open-webui/issues/13442,User observability,Directly apparent,Directly apparent,True,True
+R0345,https://github.com/open-webui/open-webui/issues/14115,User observability,Directly apparent,Directly apparent,True,True
+R0347,https://github.com/open-webui/open-webui/issues/15375,User observability,Directly apparent,Directly apparent,True,True
+R0348,https://github.com/open-webui/open-webui/issues/16393,User observability,Directly apparent,Directly apparent,True,True
+R0349,https://github.com/open-webui/open-webui/issues/16571,User observability,Requires additional verification,Directly apparent,True,False
+R0350,https://github.com/open-webui/open-webui/issues/17016,User observability,Directly apparent,Directly apparent,True,True
+R0351,https://github.com/open-webui/open-webui/issues/18366,User observability,Directly apparent,Directly apparent,True,True
+R0352,https://github.com/open-webui/open-webui/issues/18726,User observability,Requires additional verification,Requires additional verification,True,True
+R0353,https://github.com/open-webui/open-webui/issues/18728,User observability,Requires additional verification,Requires additional verification,True,True
+R0354,https://github.com/open-webui/open-webui/issues/19217,User observability,Directly apparent,Directly apparent,True,True
+R0355,https://github.com/open-webui/open-webui/issues/19328,User observability,Directly apparent,Directly apparent,True,True
+R0356,https://github.com/open-webui/open-webui/issues/19564,User observability,Directly apparent,Directly apparent,True,True
+R0357,https://github.com/open-webui/open-webui/issues/19733,User observability,Directly apparent,Directly apparent,True,True
+R0358,https://github.com/open-webui/open-webui/issues/20150,User observability,Requires additional verification,Requires additional verification,True,True
+R0359,https://github.com/open-webui/open-webui/issues/20237,User observability,Directly apparent,Directly apparent,True,True
+R0360,https://github.com/open-webui/open-webui/issues/20808,User observability,Directly apparent,Directly apparent,True,True
+R0361,https://github.com/open-webui/open-webui/issues/20847,User observability,Directly apparent,Directly apparent,True,True
+R0362,https://github.com/open-webui/open-webui/issues/21179,User observability,Directly apparent,Directly apparent,True,True
+R0363,https://github.com/open-webui/open-webui/issues/21901,User observability,Requires additional verification,Requires additional verification,True,True
+R0364,https://github.com/open-webui/open-webui/issues/21922,User observability,Directly apparent,Directly apparent,True,True
+R0365,https://github.com/open-webui/open-webui/issues/22163,User observability,Directly apparent,Directly apparent,True,True
+R0366,https://github.com/open-webui/open-webui/issues/22913,User observability,Directly apparent,Directly apparent,True,True
+R0367,https://github.com/open-webui/open-webui/issues/22994,User observability,Directly apparent,Directly apparent,True,True
+R0368,https://github.com/open-webui/open-webui/issues/23269,User observability,Requires additional verification,Requires additional verification,True,True
+R0369,https://github.com/open-webui/open-webui/issues/23668,User observability,Requires additional verification,Directly apparent,True,False
+R0370,https://github.com/open-webui/open-webui/issues/23749,User observability,Directly apparent,Directly apparent,True,True
+R0371,https://github.com/open-webui/open-webui/issues/23997,User observability,Directly apparent,Directly apparent,True,True
+R0372,https://github.com/open-webui/open-webui/issues/24163,User observability,Requires additional verification,Requires additional verification,True,True
+R0373,https://github.com/open-webui/open-webui/issues/24299,User observability,Directly apparent,Directly apparent,True,True
+R0374,https://github.com/open-webui/open-webui/issues/24381,User observability,Directly apparent,Directly apparent,True,True
+R0375,https://github.com/open-webui/open-webui/issues/24435,User observability,Directly apparent,Directly apparent,True,True
+R0376,https://github.com/open-webui/open-webui/issues/24559,User observability,Directly apparent,Directly apparent,True,True
+R0377,https://github.com/open-webui/open-webui/issues/25585,User observability,Requires additional verification,Requires additional verification,True,True
+R0378,https://github.com/open-webui/open-webui/issues/25710,User observability,Directly apparent,Directly apparent,True,True
+R0379,https://github.com/open-webui/open-webui/issues/26079,User observability,Directly apparent,Directly apparent,True,True
+R0380,https://github.com/open-webui/open-webui/issues/26892,User observability,Directly apparent,Directly apparent,True,True
+R0381,https://github.com/open-webui/open-webui/issues/27021,User observability,Directly apparent,Directly apparent,True,True
+R0382,https://github.com/open-webui/open-webui/issues/27081,User observability,Directly apparent,Directly apparent,True,True
+R0384,https://github.com/open-webui/open-webui/issues/29040,User observability,Directly apparent,Directly apparent,True,True
+R0385,https://github.com/open-webui/open-webui/issues/29134,User observability,Directly apparent,Directly apparent,True,True
+R0386,https://github.com/open-webui/open-webui/issues/31411,User observability,Requires additional verification,Requires additional verification,True,True
+R0387,https://github.com/open-webui/open-webui/issues/31566,User observability,Directly apparent,Directly apparent,True,True
+R0388,https://github.com/open-webui/open-webui/issues/31907,User observability,Directly apparent,Directly apparent,True,True
+R0389,https://github.com/open-webui/open-webui/issues/31968,User observability,Directly apparent,Directly apparent,True,True
+R0390,https://github.com/earendil-works/pi/issues/71,User observability,Directly apparent,Directly apparent,True,True
+R0391,https://github.com/earendil-works/pi/issues/128,User observability,Directly apparent,Directly apparent,True,True
+R0392,https://github.com/earendil-works/pi/issues/143,User observability,Directly apparent,Directly apparent,True,True
+R0393,https://github.com/earendil-works/pi/issues/198,User observability,Directly apparent,Directly apparent,True,True
+R0394,https://github.com/earendil-works/pi/issues/1140,User observability,Directly apparent,Directly apparent,True,True
+R0396,https://github.com/earendil-works/pi/issues/1360,User observability,Directly apparent,Directly apparent,True,True
+R0397,https://github.com/earendil-works/pi/issues/1430,User observability,Directly apparent,Directly apparent,True,True
+R0398,https://github.com/earendil-works/pi/issues/1736,User observability,Requires additional verification,Requires additional verification,True,True
+R0400,https://github.com/earendil-works/pi/issues/1816,User observability,Directly apparent,Directly apparent,True,True
+R0401,https://github.com/earendil-works/pi/issues/1832,User observability,Directly apparent,Directly apparent,True,True
+R0402,https://github.com/earendil-works/pi/issues/2052,User observability,Directly apparent,Directly apparent,True,True
+R0403,https://github.com/earendil-works/pi/issues/2301,User observability,Requires additional verification,Requires additional verification,True,True
+R0404,https://github.com/earendil-works/pi/issues/2381,User observability,Directly apparent,Directly apparent,True,True
+R0405,https://github.com/earendil-works/pi/issues/2383,User observability,Directly apparent,Directly apparent,True,True
+R0406,https://github.com/earendil-works/pi/issues/2395,User observability,Directly apparent,Directly apparent,True,True
+R0407,https://github.com/earendil-works/pi/issues/2538,User observability,Directly apparent,Directly apparent,True,True
+R0408,https://github.com/earendil-works/pi/issues/2579,User observability,Directly apparent,Directly apparent,True,True
+R0409,https://github.com/earendil-works/pi/issues/2677,User observability,Directly apparent,Directly apparent,True,True
+R0410,https://github.com/earendil-works/pi/issues/2719,User observability,Directly apparent,Directly apparent,True,True
+R0411,https://github.com/earendil-works/pi/issues/2834,User observability,Directly apparent,Directly apparent,True,True
+R0412,https://github.com/earendil-works/pi/issues/3131,User observability,Directly apparent,Directly apparent,True,True
+R0413,https://github.com/earendil-works/pi/issues/3358,User observability,Directly apparent,Directly apparent,True,True
+R0414,https://github.com/earendil-works/pi/issues/3523,User observability,Directly apparent,Directly apparent,True,True
+R0415,https://github.com/earendil-works/pi/issues/3552,User observability,Requires additional verification,Requires additional verification,True,True
+R0416,https://github.com/earendil-works/pi/issues/3811,User observability,Requires additional verification,Requires additional verification,True,True
+R0417,https://github.com/earendil-works/pi/issues/4226,User observability,Directly apparent,Directly apparent,True,True
+R0418,https://github.com/earendil-works/pi/issues/4311,User observability,Directly apparent,Directly apparent,True,True
+R0419,https://github.com/earendil-works/pi/issues/4340,User observability,Directly apparent,Directly apparent,True,True
+R0420,https://github.com/earendil-works/pi/issues/4357,User observability,Directly apparent,Directly apparent,True,True
+R0421,https://github.com/earendil-works/pi/issues/4375,User observability,Directly apparent,Directly apparent,True,True
+R0422,https://github.com/earendil-works/pi/issues/4392,User observability,Directly apparent,Directly apparent,True,True
+R0423,https://github.com/earendil-works/pi/issues/4413,User observability,Directly apparent,Directly apparent,True,True
+R0424,https://github.com/earendil-works/pi/issues/4481,User observability,Directly apparent,Directly apparent,True,True
+R0425,https://github.com/earendil-works/pi/issues/4761,User observability,Requires additional verification,Directly apparent,True,False
+R0426,https://github.com/earendil-works/pi/issues/4932,User observability,Directly apparent,Directly apparent,True,True
+R0427,https://github.com/earendil-works/pi/issues/4934,User observability,Directly apparent,Directly apparent,True,True
+R0428,https://github.com/earendil-works/pi/issues/5035,User observability,Directly apparent,Directly apparent,True,True
+R0429,https://github.com/earendil-works/pi/issues/5289,User observability,Directly apparent,Directly apparent,True,True
+R0430,https://github.com/earendil-works/pi/issues/5574,User observability,Directly apparent,Directly apparent,True,True
+R0431,https://github.com/earendil-works/pi/issues/5940,User observability,Directly apparent,Directly apparent,True,True
+R0432,https://github.com/earendil-works/pi/issues/6116,User observability,Directly apparent,Directly apparent,True,True
+R0433,https://github.com/earendil-works/pi/issues/6276,User observability,Directly apparent,Directly apparent,True,True
+R0434,https://github.com/earendil-works/pi/issues/6447,User observability,Directly apparent,Directly apparent,True,True
+R0435,https://github.com/earendil-works/pi/issues/6571,User observability,Requires additional verification,Requires additional verification,True,True
+R0437,https://github.com/earendil-works/pi/issues/6787,User observability,Directly apparent,Directly apparent,True,True
+R0438,https://github.com/earendil-works/pi/issues/7097,User observability,Directly apparent,Directly apparent,True,True
+R0440,https://github.com/earendil-works/pi/issues/7282,User observability,Requires additional verification,Requires additional verification,True,True
+R0441,https://github.com/earendil-works/pi/issues/7519,User observability,Requires additional verification,Requires additional verification,True,True
+R0442,https://github.com/earendil-works/pi/issues/7633,User observability,Requires additional verification,Requires additional verification,True,True
+R0443,https://github.com/earendil-works/pi/issues/7782,User observability,Directly apparent,Directly apparent,True,True
+R0444,https://github.com/earendil-works/pi/issues/7835,User observability,Directly apparent,Directly apparent,True,True
+R0445,https://github.com/earendil-works/pi/issues/8063,User observability,Directly apparent,Directly apparent,True,True
+R0446,https://github.com/earendil-works/pi/issues/8098,User observability,Requires additional verification,Requires additional verification,True,True
+R0447,https://github.com/earendil-works/pi/issues/8210,User observability,Directly apparent,Directly apparent,True,True
+R0448,https://github.com/earendil-works/pi/issues/8311,User observability,Requires additional verification,Requires additional verification,True,True
+R0449,https://github.com/earendil-works/pi/issues/8441,User observability,Directly apparent,Directly apparent,True,True
+R0451,https://github.com/earendil-works/pi/issues/8597,User observability,Directly apparent,Directly apparent,True,True
+R0452,https://github.com/earendil-works/pi/issues/8661,User observability,Directly apparent,Directly apparent,True,True
+R0453,https://github.com/earendil-works/pi/issues/9034,User observability,Directly apparent,Directly apparent,True,True
+R0454,https://github.com/earendil-works/pi/issues/9320,User observability,Directly apparent,Directly apparent,True,True
+R0455,https://github.com/earendil-works/pi/issues/9377,User observability,Directly apparent,Directly apparent,True,True
+R0458,https://github.com/earendil-works/pi/issues/9453,User observability,Directly apparent,Directly apparent,True,True
+R0460,https://github.com/earendil-works/pi/issues/9654,User observability,Requires additional verification,Requires additional verification,True,True
+R0461,https://github.com/earendil-works/pi/issues/9806,User observability,Requires additional verification,Requires additional verification,True,True
+R0462,https://github.com/earendil-works/pi/issues/9812,User observability,Requires additional verification,Requires additional verification,True,True
+R0463,https://github.com/earendil-works/pi/issues/9852,User observability,Directly apparent,Directly apparent,True,True
+R0464,https://github.com/earendil-works/pi/issues/9933,User observability,Directly apparent,Directly apparent,True,True
+R0465,https://github.com/earendil-works/pi/issues/9953,User observability,Directly apparent,Directly apparent,True,True
+R0466,https://github.com/earendil-works/pi/issues/9976,User observability,Directly apparent,Directly apparent,True,True
+R0467,https://github.com/earendil-works/pi/issues/10239,User observability,Requires additional verification,Requires additional verification,True,True
+R0469,https://github.com/earendil-works/pi/issues/10366,User observability,Requires additional verification,Requires additional verification,True,True
+R0470,https://github.com/earendil-works/pi/issues/10424,User observability,Requires additional verification,Requires additional verification,True,True
+R0471,https://github.com/earendil-works/pi/issues/10765,User observability,Requires additional verification,Requires additional verification,True,True
