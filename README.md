@@ -103,18 +103,3 @@ Key files:
 - `Coding_Process/Reliability_and_Final_Review.xlsx`: Agreement results, the confusion matrix, disagreement handling, final review of 481 strategy reports, and statistical results.
 
 Handling duration and code change size serve as descriptive indicators of repair cost. Measurement rules and valid sample sizes are documented in the corresponding files. Strategy labels retain evidence statuses distinguishing assignments supported by available materials from inferred matches.
-
-## Organization of Coding and Review Materials
-
-The materials follow this sequence: initial pilot coding, code comparison and consolidation, codebook finalization, reliability-sample annotation, agreement calculation, and disagreement handling and final review.
-
-Agreement is calculated from the two rounds of original labels before discussion and revision. Subsequent reviewed labels are stored separately. Refer to the corresponding files for each field's valid sample size, observed agreement, Cohen's Kappa, annotation statuses, and missing-input information.
-
-## Suggested Reading Order and Statistical Scope
-
-1. Read each RQ's codebook to understand category definitions, boundaries, and decision criteria.
-2. Consult per-report labels or final review sheets, using report identifiers, URLs, and category IDs to locate reports and evidence.
-3. Examine the two rounds of original coding, consolidation records, and disagreement records in each RQ's `Coding_Process/` subfolder to trace how individual labels were formed.
-4. Calculate distributions from the per-report labels for the relevant sample, and interpret them alongside stages, components, and evidence statuses.
-
-The repository retains materials from code development, reliability assessment, and subsequent aggregation. When reporting frequencies, percentages, or agreement results, identify the corresponding file, version, sample scope, and denominator. Category-level representative labels support category interpretation, while per-report labels support sample-level statistics. Interpret inferred matches together with their recorded rationales and evidence scope.
