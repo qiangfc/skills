@@ -83,8 +83,6 @@ Key files:
 
 `RQ4(repair)` contains records for the 901 retained reports and analyses of documented corrective actions, recorded issue handling durations, and code change sizes.
 
-The analysis organizes related root causes into six themes: interface and data-contract alignment; Skill discovery and context consistency; execution control and feedback; configuration, environment, and access alignment; state and artifact integrity; and Skill guidance correction. These themes structure the discussion of corrections. They do not imply a single repair strategy for each root cause.
-
 Key files:
 
 - `Repair_Strategies_and_Cost_Full_Sample_Labels.csv`: Per-report records for all 901 reports, including Issue URLs, invocation stages, failure descriptions, root-cause descriptions and category labels, repair approaches, recorded handling durations and code changes, report summaries, and review rationales. The file also retains the associated symptom classifications and outcome attributes.
