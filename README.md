@@ -1,15 +1,15 @@
 # Analysis Materials for Failures in Agent–Skill Interactions
 
-This repository organizes reports of failures encountered when agents use Skills and tools. It contains analyses of failure symptoms, root-cause mechanisms, task impact, user observability, repair strategies, and repair cost.
+This repository organizes reports of failures encountered when agents use Skills and tools. It contains analyses of failure symptoms, root-cause mechanisms, task impact, user observability, documented corrective actions, and repair cost.
 
-The materials cover five open-source projects: OpenClaw, Hermes Agent, Dify, Open WebUI, and pi. Organized around four research questions, the repository contains 32 research artifacts, including coding definitions, annotation records, category labels, supporting evidence, consolidation and review records, and agreement calculations. These materials support checking the results and tracing the coding process.
+The materials cover five open-source projects: OpenClaw, Hermes Agent, Dify, Open WebUI, and pi. Organized around four research questions, the repository provides research artifacts, including coding definitions, annotation records, category labels, supporting evidence, consolidation and review records, and agreement calculations. These materials support checking the results and tracing the coding process.
 
 ## Research Questions
 
 - **RQ1 — Symptoms:** What user- or system-observable anomalies characterize the reported failures?
 - **RQ2 — Root Causes:** What implementation, configuration, or runtime mechanisms cause these failures?
 - **RQ3 — Impact and Observability:** How do failures affect users' tasks, and are they directly apparent from normal user-facing feedback?
-- **RQ4 — Repair:** What repair strategies are used, and how do handling duration and code change size vary across root-cause categories?
+- **RQ4 — Repair:** What corrective actions are documented for reported failures, and how do recorded issue handling durations and code change sizes vary across root-cause groups?
 
 ## Repository Structure
 
@@ -28,13 +28,11 @@ The materials cover five open-source projects: OpenClaw, Hermes Agent, Dify, Ope
 │   ├── Full_Sample_Labels.csv
 │   └── Coding_Process/
 └── RQ4(repair)/
-    ├── Repair_Strategy_Codebook.xlsx
-    ├── Root_Cause_Repair_Cost.xlsx
-    ├── Full_Sample_Labels.xlsx
-    └── Coding_Process/
+    ├── Repair_Strategies_and_Cost_Full_Sample_Labels.csv
+    └── Root_Cause_Repair_Cost.xlsx
 ```
 
-Each RQ directory keeps its codebook, full-sample labels, and main analyses at the root, where applicable. Its `Coding_Process/` subfolder contains the coding, consolidation, reliability, and review records.
+Each RQ directory keeps its full-sample records and main analyses at the root, along with a codebook where applicable. Where present, a `Coding_Process/` subfolder contains coding, consolidation, reliability, and review records.
 
 ## RQ1: Failure Symptoms
 
@@ -81,25 +79,15 @@ Key files:
 - `Coding_Process/Original_Label_Comparison.csv`: Field-level comparisons of the two rounds of original labels.
 - `Coding_Process/Disagreements_and_Undetermined_Review.csv`: Subsequent review records for disagreements and undetermined items.
 
-## RQ4: Repair Strategies and Repair Cost
+## RQ4: Corrective Actions and Repair Cost
 
-`RQ4(repair)` contains repair-strategy coding and review materials, along with handling-duration and code-change-size summaries by root-cause category.
+`RQ4(repair)` contains records for the 901 retained reports and analyses of documented corrective actions, recorded issue handling durations, and code change sizes.
 
-The four repair strategies are:
-
-- `F01 Representation and usage-contract alignment`
-- `F02 Execution-flow and state correction`
-- `F03 Validation and failure-path hardening`
-- `F04 Environment and distribution adaptation`
+The analysis organizes related root causes into six themes: interface and data-contract alignment; Skill discovery and context consistency; execution control and feedback; configuration, environment, and access alignment; state and artifact integrity; and Skill guidance correction. These themes structure the discussion of corrections. They do not imply a single repair strategy for each root cause.
 
 Key files:
 
-- `Repair_Strategy_Codebook.xlsx`: Descriptions, examples, and distribution information for the four strategies.
-- `Root_Cause_Repair_Cost.xlsx`: Handling-duration and code-change-size summaries and analyses by root-cause category.
-- `Full_Sample_Labels.xlsx`: Final repair-strategy labels for all 481 reports included in the strategy analysis, with strategy names, repair actions, assignment rationales, review records, evidence statuses, and URLs. The worksheet is named `Full_Sample_Labels`.
-- `Coding_Process/Pilot_Initial_Coding_Round_1.xlsx` and `Coding_Process/Pilot_Initial_Coding_Round_2.xlsx`: Repair-strategy coding from the two pilot rounds.
-- `Coding_Process/Pilot_Consolidation_and_Review.xlsx`: Strategy consolidation, version records, and pilot review records.
-- `Coding_Process/Reliability_Original_Labels_Round_1.xlsx` and `Coding_Process/Reliability_Original_Labels_Round_2.xlsx`: Two rounds of original reliability labels.
-- `Coding_Process/Reliability_and_Final_Review.xlsx`: Agreement results, the confusion matrix, disagreement handling, final review of 481 strategy reports, and statistical results.
+- `Repair_Strategies_and_Cost_Full_Sample_Labels.csv`: Per-report records for all 901 reports, including Issue URLs, invocation stages, failure descriptions, root-cause descriptions and category labels, repair approaches, recorded handling durations and code changes, report summaries, and review rationales. The file also retains the associated symptom classifications and outcome attributes.
+- `Root_Cause_Repair_Cost.xlsx`: Summaries and analyses of recorded handling durations and code change sizes by root-cause category.
 
-Handling duration and code change size serve as descriptive indicators of repair cost. Measurement rules and valid sample sizes are documented in the corresponding files. Strategy labels retain evidence statuses distinguishing assignments supported by available materials from inferred matches.
+Corrective-action analysis distinguishes applied corrections from unmerged proposals and closures without repair evidence. Issue closure does not establish successful repair. Recorded handling duration describes the Issue lifecycle rather than active development effort, and code change size is considered separately. Reports without identifiable applied changes are not interpreted as zero-cost repairs.
