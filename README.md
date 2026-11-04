@@ -36,7 +36,7 @@ Each RQ directory keeps its full-sample records and main analyses at the root, a
 
 ## RQ1: Failure Symptoms
 
-`RQ1(Symptoms)` contains the classification and coding-process materials for failure symptoms. The codebook defines **21 failure-symptom categories**, identified by `S01`–`S21`, with definitions, inclusion and exclusion criteria, category boundaries, single-label decision rules, and evidence examples.
+`RQ1(Symptoms)` contains the classification and coding-process materials for failure symptoms. The codebook defines **19 failure-symptom categories**, identified by `S01`–`S19`, with definitions, inclusion and exclusion criteria, category boundaries, single-label decision rules, and evidence examples.
 
 Key files:
 
@@ -82,6 +82,8 @@ Key files:
 ## RQ4: Corrective Actions and Repair Cost
 
 `RQ4(repair)` contains records for the 901 retained reports and analyses of documented corrective actions, recorded issue handling durations, and code change sizes.
+
+The analysis organizes related root causes into six themes: interface and data-contract alignment; Skill discovery and context consistency; execution control and feedback; configuration, environment, and access alignment; state and artifact integrity; and Skill guidance correction. These themes structure the discussion of corrections. They do not imply a single repair strategy for each root cause.
 
 Key files:
 
